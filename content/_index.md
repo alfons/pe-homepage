@@ -44,7 +44,7 @@ A plain-text reading environment with adjustable Pīnyīn visibility.
 → Adjust Pīnyīn visibility by frequency or curated sets  
 → Click any word to open it in Pīnyīn Explorer  
 
-### 4. Pīnyīn Explorer’s Semantic Word Maps (App, Pen & Paper)  
+### 4. Pīnyīn Explorer’s Semantic Word Maps (Pen & Paper)  
 
 Every day you will explore one monosyllabic word, through its semantic families and most useful compounds. As you build your own maps, thousands of individual words gradually become an interconnected network.
 
