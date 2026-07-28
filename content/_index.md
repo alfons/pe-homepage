@@ -10,14 +10,14 @@ title: "The Pīnyīn Explorer Method"
 ## The Pīnyīn Explorer Method
 
 1. **Master the Inventory**
-   You begin with the complete monosyllabic, phonotactic, and morphemic inventory of modern Mandarin. This establishes a solid phonological foundation – including the much-worried-about four tones – before vocabulary expansion. You simply begin by learning to recognize and imitate the sounds of all 1,290 lexical monosyllabic words. Every basic building block, nothing omitted.
+   You begin with the complete monosyllabic, phonotactic, and morphemic inventory of modern Mandarin. This establishes a solid phonological foundation – including the much-worried-about four tones.
 
 2. **Build a Feeling for Words**
-   Vocabulary is organized around the foundational inventory, sorted by sound frequency, rather than thematic vocabulary sets. 
-   Each lexical item becomes the center of an expanding network of meanings, compounds, and associations, gradually building an intuitive understanding of how Mandarin vocabulary fits together.
+   Vocabulary is organized around a foundational inventory of 365 words, sorted by frequency, rather than thematic vocabulary sets. 
+   Each word becomes the center of an expanding network of meanings, compounds, and associations, gradually building an intuitive understanding of how the words fit together.
 
 3. **Expand into Real Reading**
-   Podcast subtitles, story transcripts, articles, anything you actually want to read. Drop it into the Peekaboo Reader. Follow a well-defined progression from recognizing punctuation and a handful of high-frequency words to reading fluently – where attention shifts naturally from decoding to meaning.
+   Instead of graded readers and graded podcasts, you will read regular podcast transcripts, articles, stories, novels, anything you actually want to read. Drop it into the Peekaboo Reader. Follow a well-defined progression from recognizing punctuation and a handful of high-frequency words to reading out loud fluently.
 
 ---
 
@@ -44,12 +44,8 @@ A plain-text reading environment with adjustable Pīnyīn visibility.
 → Adjust Pīnyīn visibility by frequency or curated sets  
 → Click any word to open it in Pīnyīn Explorer  
 
-Supports podcast transcripts, stories, and articles.
-
 ### 4. Pīnyīn Explorer’s Semantic Word Maps (App, Pen & Paper)  
 
-See how Mandarin vocabulary fits together.
+Every day you will explore one monosyllabic word, through its semantic families and most useful compounds. As you build your own maps, thousands of individual words gradually become an interconnected network.
 
-Every day you explore one carefully curated monosyllabic word through its semantic families and most useful compounds. As you build your own maps, thousands of individual words gradually become an interconnected network that's easier to navigate, remember, and read.
-
-Built on 365 curated words from Pīnyīn Explorer — a structured progression of one word per day for a year — or six per day for two months.
+The basis is formed with the 365 curated words from Pīnyīn Explorer. You will study at your own pace — for example, one word per day for a year, or six words per day for two months.

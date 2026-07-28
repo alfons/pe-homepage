@@ -1,1 +1,20 @@
 hugo server
+
+
+# Check what changed
+git status
+
+# Stage your changes
+git add .
+
+# Or, if you only changed the home page:
+git add content/_index.md
+# or
+git add layouts/index.html
+# (depending on which file you edited)
+
+# Commit the changes
+git commit -m "Update home page"
+
+# Push to GitHub
+git push
