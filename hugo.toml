@@ -1,0 +1,14 @@
+baseURL = "https://pinyinexplorer.com/"
+languageCode = "en-us"
+title = "Pīnyīn Explorer"
+theme = "PaperMod"
+copyright = "© 2025–2026 Alfons Grabher"
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = true
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 10

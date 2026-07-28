@@ -1,0 +1,33 @@
+.hero {
+    text-align: center;
+    padding: 5rem 1rem;
+}
+
+.hero h1 {
+    margin-bottom: .6rem;
+}
+
+.hero p {
+    max-width: 700px;
+    margin: 1rem auto;
+}
+
+.hero-buttons {
+    margin-top: 2rem;
+}
+
+.hero-buttons a {
+    display: inline-block;
+    margin: .5rem;
+    padding: .8rem 1.4rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--theme);
+    color: var(--primary);
+    text-decoration: none;
+    transition: .2s;
+}
+
+.hero-buttons a:hover {
+    background: var(--tertiary);
+}
