@@ -1,6 +1,13 @@
 hugo server
 
 
+# update to github
+git add .
+git commit -m "Update home page"
+git push
+
+
+
 # Check what changed
 git status
 
