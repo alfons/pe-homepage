@@ -1,6 +1,6 @@
 ---
 title: "Quiz Game Rules & Rationale"
-description: "This document explains how the Quiz Game works, how it connects to the Pīnyīn Explorer Flashcards system, and what to expect at each level."
+description: "This document explains how the Pīnyīn Explorer Quiz Game works from a learner’s perspective: what the levels mean, how progression works, and what you can expect while playing."
 weight: 10
 ---
 
@@ -12,6 +12,7 @@ The definitions are not intended to reproduce dictionary entries exhaustively. I
 
 The goal is to develop a strong feel for the meanings and tones of the monosyllabic Pīnyīn readings—the building blocks of spoken Chinese. As this foundation grows, new vocabulary becomes easier to recognize, learn, and retain, and slots more readily into an increasingly rich mental network. This is the central pedagogical payoff of the system.
 
+---
 
 ## Built on the Flashcard System
 
@@ -101,9 +102,7 @@ Changes made directly in the Flashcard boxes are also reflected in the Quiz Game
 * **Test Format:** Uses a dynamic mix cycling through all testing modes (Pīnyīn → Definition, Definition → Pīnyīn, and Tone discrimination).
 * **Goal:** Maintain long-term mastery. Review Cards  periodically  rather than considered permanently finished.
 
-### About this document
-
-This document explains how the Pīnyīn Explorer Quiz Game works from a learner’s perspective: what the levels mean, how progression works, and what you can expect while playing. It is intended to help learners use the system effectively; it is not a technical specification or implementation blueprint.
+---
 
 #### Copyright & Use Notice
 
