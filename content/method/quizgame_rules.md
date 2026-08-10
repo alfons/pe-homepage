@@ -55,6 +55,7 @@ Changes made directly in the Flashcard boxes are also reflected in the Quiz Game
 ### 4. Balanced Card Rotation
 
 * **Even Rotation:** The game cycles through active cards evenly so you won't see the same card repeat until you have worked through the other available cards in that box level.
+* **Pro Tip**: Because cards are rotated evenly, larger levels will be harder because they require more time and thus longer periods of sustained focus to move cards through. For this reason, try to keep no more than about 20 cards in any Level 1–4.
 
 ---
 
