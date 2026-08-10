@@ -3,7 +3,7 @@ title: "The Pīnyīn Explorer Method"
 ---
 
 # A path to spoken Mandarin
-### A pronunciation-first system for learning modern Mandarin through sound, structure, and reading.
+### A Pīnyīn-first system for learning modern Mandarin
 
 ---
 
