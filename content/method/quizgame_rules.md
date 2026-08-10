@@ -4,9 +4,14 @@ description: "This document explains how the Quiz Game works, how it connects to
 weight: 10
 ---
 
-## Objective
+# Mission Statement & Central Pedagogical Payoff
 
-Master all 365 cards to reach Level 5 to complete the game.
+The Quiz Game is designed to turn 365 of the most useful monosyllabic Pīnyīn readings into a strong foundation for learning Chinese. Each reading is paired with carefully selected and worded definitions.
+
+The definitions are not intended to reproduce dictionary entries exhaustively. Instead, they are crafted according to a simple question: “Which meanings give the learner the highest practical yield while remaining distinct, memorable, and useful for recognizing compounds?”
+
+The goal is to develop a strong feel for the meanings and tones of the monosyllabic Pīnyīn readings—the building blocks of spoken Chinese. As this foundation grows, new vocabulary becomes easier to recognize, learn, and retain, and slots more readily into an increasingly rich mental network. This is the central pedagogical payoff of the system.
+
 
 ## Built on the Flashcard System
 
@@ -23,6 +28,8 @@ When you play the Quiz Game:
 Changes made directly in the Flashcard boxes are also reflected in the Quiz Game.
 
 ## General Mechanics – Applies to All Levels
+
+**Game Objective:** Master all 365 cards to reach Level 5 to complete the game.
 
 ### 1. Multi-Definition Card Mastery Logic
 
