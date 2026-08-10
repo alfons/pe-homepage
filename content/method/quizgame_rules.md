@@ -35,7 +35,7 @@ Changes made directly in the Flashcard boxes are also reflected in the Quiz Game
 
 ### 2. Progression & Demotion Mechanics
 
-* **Promotion (Leveling Up):** Once a card achieves complete mastery across all of its definition senses in its current level, it moves up to the next Level.
+* **Promotion (Leveling Up):** Once a card achieves complete mastery across all of its definitions in its current level, it moves up to the next Level.
 * **Level 1 Safety Net:** Answering incorrectly in Level 1 clears the card's sense mastery history, but keeps the card in Level 1 for immediate practice.
 * **Demotion Penalty (Levels 2–5):** Answering incorrectly on a card in Levels 2 through 5 resets its sense mastery and immediately drops the card all the way back down to Level 1 for foundational review.
 
