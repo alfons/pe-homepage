@@ -1,10 +1,10 @@
 ---
-title: "Quiz Game Progression and Rationale"
+title: "Quiz Game Rules & Rationale"
 description: "This document explains how the Quiz Game works, how it connects to the Pīnyīn Explorer Flashcards system, and what to expect at each level."
 weight: 10
 ---
 
-# Mission Statement & Central Pedagogical Payoff
+# Mission Statement
 
 The Quiz Game is designed to turn 365 of the most useful monosyllabic Pīnyīn readings into a strong foundation for learning Chinese. Each reading is paired with carefully selected and worded definitions.
 
@@ -27,33 +27,34 @@ When you play the Quiz Game:
 
 Changes made directly in the Flashcard boxes are also reflected in the Quiz Game.
 
+---
+
 ## General Mechanics – Applies to All Levels
 
-**Game Objective:** Master all 365 cards to reach Level 5 to complete the game.
+**Game Objective:** Master all 365 cards across all 5 levels to complete the game.
 
 ### 1. Multi-Definition Card Mastery Logic
 
 * **Full Coverage Required:** Chinese words frequently carry multiple definitions (also called meanings, senses, domains, or glosses). A card is only marked as fully mastered and promoted to the next Level once every individual definition associated with that card has been identified correctly at least once.
-* **Unmastered Target Priority:** When a card is selected for a question, the target correct answer is drawn strictly from its remaining unmastered definition. An already-mastered definition will never be presented as the primary target answer — unless the card's overall mastery has been reset.
+* **Unmastered Target Priority:** When a card is selected for a question, the primary target answer is drawn from its remaining unmastered definitions. An already-mastered definition will not be presented as the primary target answer—unless the card's overall mastery has been reset.
 * **Reappearing Definitions:**
-  * An already-mastered definition has a small chance (1 in 6) to reappear as an alternative choice alongside an unmastered target answer on screen.
-  * If a player selects an already-mastered definition, the system registers it as a correct answer for that turn. However, because secondary definitions remain unmastered, the card will not level up or move to a higher box.
-  * *Rationale:* This mechanics structure ensures players can reliably validate familiar definitions while preventing them from advancing cards through favoritism or by ignoring secondary meanings.
+  * An already-mastered definition will occasionally reappear as an option alongside an unmastered target definition.
+  * If you select an already-mastered definition, the game registers it as a correct choice for that turn. However, because secondary definitions remain unmastered, the card will not level up yet.
+  * *Why does this happen?* This structure ensures you can reliably validate definitions you already know while preventing cards from advancing prematurely before all secondary meanings have been learned.
 
 ### 2. Progression & Demotion Mechanics
 
 * **Promotion (Leveling Up):** Once a card achieves complete mastery across all of its definitions in its current level, it moves up to the next Level.
 * **Level 1 Safety Net:** Answering incorrectly in Level 1 clears the card's definition mastery history, but keeps the card in Level 1 for immediate practice.
-* **Demotion Penalty (Levels 2–5):** Answering incorrectly on a card in Levels 2 through 5 resets its definition mastery and immediately drops the card all the way back down to Level 1 for foundational review.
+* **Demotion Penalty (Levels 2–5):** Answering incorrectly on a card in Levels 2 through 5 resets its definition mastery and returns the card back to Level 1 for foundational review.
 
-### 3. Fair Distractor Generation
+### 3. Clear and Unambiguous Options
 
-* **No Overlapping Meanings:** Distractor choices (wrong options) are dynamically filtered against the target question. Options that share overlapping word fragments or definitions are excluded so questions never contain ambiguous or conflicting options.
+* **No Overlapping Meanings:** Answer choices are dynamically filtered so options never share confusing overlaps or conflicting definitions.
 
-### 4. Anti-Repetition Pipeline (Exhaustion Queue)
+### 4. Balanced Card Rotation
 
-* **Balanced Card Rotation:** Each box maintains an internal exhaustion pipeline. When a card is tested, its unique ID is recorded in the box's history log.
-* **Queue Cycling:** The system avoids repeating a card until all other active cards within that level have been drawn, resetting the history queue only once every available card in the box has been served.
+* **Even Rotation:** The game cycles through active cards evenly so you won't see the same card repeat until you have worked through the other available cards in that box level.
 
 ---
 
@@ -61,11 +62,11 @@ Changes made directly in the Flashcard boxes are also reflected in the Quiz Game
 
 ### Level 1 — Introduction
 
-* **Card Serving:** Cards are handed out in batches of 7 from the 365-card deck.
+* **Card Serving:** Cards are handed out in batches of 7.
 * **Batch Repair:** If cards have previously been deleted or are missing, incomplete batches are repaired and topped up before a new batch of 7 is handed.
-* **Card Order:** Cards are presented strictly in sequential deck order following the predefined 365-card balanced arc.
+* **Card Order:** Cards are presented strictly in sequential order following the predefined 365-card balanced learning arc.
 * **Test Format:** Front-to-Back (Pīnyīn → Definition).
-* **Distractor Pool:** Answer choices are drawn only from cards currently active in your boxes.
+* **Option Pool:** Incorrect choices are drawn only from cards currently active in your boxes.
 
 ---
 
@@ -81,7 +82,7 @@ Changes made directly in the Flashcard boxes are also reflected in the Quiz Game
 
 * **Card Serving:** Drawn in random order.
 * **Test Format:** Back-to-Front (Definition → Pīnyīn).
-* **Distractor Pool:** Pīnyīn headwords as distractors are drawn from the full 365-card deck.
+* **Distractor Pool:** Pīnyīn options are drawn from the full 365-card deck.
 
 ---
 
@@ -89,15 +90,20 @@ Changes made directly in the Flashcard boxes are also reflected in the Quiz Game
 
 * **Card Serving:** Drawn in random order.
 * **Test Format:** Back-to-Front (Definition → Pīnyīn).
-* **Distractor Pool:** Focuses specifically on Pīnyīn tone variations. The goal is to train tone discrimination, which many students find to be one of the hardest parts of learning Mandarin. Headwords are drawn from the full dictionary, including words outside the 365-card deck.
+* **Distractor Pool:** Focuses specifically on Pīnyīn tone variations to train tone discrimination—one of the key skills in learning Mandarin. Options are drawn from the full dictionary.
 
 ---
 
 ### Level 5 — Master Holding Box
 
 * **Card Serving:** Drawn in random order.
-* **Test Format:** Uses a continuous 12-Step Rhythm Loop that cycles through all test modes:
-  * **Steps 1–6:** Front-to-Back (Pīnyīn → Definition)
-  * **Steps 7–9:** Back-to-Front Local (Definition → Pīnyīn)
-  * **Steps 10–12:** Back-to-Front Tones (Definition → Tone options)
-* **Goal:** Maintain long-term mastery through regular mixed-mode review, just as cards in Leitner Box 5 are periodically reviewed rather than considered permanently finished.
+* **Test Format:** Uses a dynamic mix cycling through all testing modes (Pīnyīn → Definition, Definition → Pīnyīn, and Tone discrimination).
+* **Goal:** Maintain long-term mastery. Review Cards  periodically  rather than considered permanently finished.
+
+### About this document
+
+This document explains how the Pīnyīn Explorer Quiz Game works from a learner’s perspective: what the levels mean, how progression works, and what you can expect while playing. It is intended to help learners use the system effectively; it is not a technical specification or implementation blueprint.
+
+#### Copyright & Use Notice
+
+© 2026 Alfons Grabher. The Pīnyīn Explorer Method, its curriculum, curated learning materials, game mechanics, pedagogical progressions, and associated content are original work. This document is provided for learners and users of Pīnyīn Explorer and is not intended as a specification for reproducing, cloning, or implementing the system or its underlying materials.
