@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}
+      <p class="section-description">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <div class="card-grid">
+    {{ range .Pages.ByWeight }}
+      <article class="card">
+        <a href="{{ .RelPermalink }}" class="card-link">
+          <h2 class="card-title">{{ .Title }}</h2>
+
+          {{/* Prefer the front-matter description */}}
+          {{ with .Description }}
+            <p class="card-description">{{ . }}</p>
+          {{ else }}
+            {{/* Fallback to summary if no description is set */}}
+            {{ with .Summary }}
+              <p class="card-description">{{ . | truncate 160 }}</p>
+            {{ end }}
+          {{ end }}
+        </a>
+      </article>
+    {{ end }}
+  </div>
+{{ end }}

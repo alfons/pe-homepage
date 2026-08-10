@@ -9,6 +9,11 @@ defaultTheme = "auto"
 disableThemeToggle = true
 
 [[menu.main]]
+name = "Method"
+url = "/method/"
+weight = 10
+
+[[menu.main]]
 name = "About"
 url = "/about/"
-weight = 10
+weight = 20
