@@ -22,7 +22,7 @@ When you play the Quiz Game:
 
 Changes made directly in the Flashcard boxes are also reflected in the Quiz Game.
 
-## General Mechanics & Rationale (Applies to All Levels)
+## General Mechanics – Applies to All Levels
 
 ### 1. Multi-Definition Card Mastery Logic
 
@@ -57,7 +57,7 @@ Changes made directly in the Flashcard boxes are also reflected in the Quiz Game
 * **Card Serving:** Cards are handed out in batches of 7 from the 365-card deck.
 * **Batch Repair:** If cards have previously been deleted or are missing, incomplete batches are repaired and topped up before a new batch of 7 is handed.
 * **Card Order:** Cards are presented strictly in sequential deck order following the predefined 365-card balanced arc.
-* **Test Format:** Front-to-Back (Pinyin → Definition).
+* **Test Format:** Front-to-Back (Pīnyīn → Definition).
 * **Distractor Pool:** Answer choices are drawn only from cards currently active in your boxes.
 
 ---
@@ -65,24 +65,24 @@ Changes made directly in the Flashcard boxes are also reflected in the Quiz Game
 ### Level 2 — Expansion
 
 * **Card Serving:** Drawn in random order.
-* **Test Format:** Front-to-Back (Pinyin → Definition).
-* **Distractor Pool:** Drawn from the entire 365-card deck, including cards you have not yet added to your active boxes.
+* **Test Format:** Front-to-Back (Pīnyīn → Definition).
+* **Distractor Pool:** Answer choices are drawn from the entire 365-card deck, including cards you have not yet added to your active boxes.
 
 ---
 
 ### Level 3 — Reverse Recall
 
 * **Card Serving:** Drawn in random order.
-* **Test Format:** Back-to-Front (Definition → Pinyin).
-* **Distractor Pool:** Drawn from the full 365-card deck.
+* **Test Format:** Back-to-Front (Definition → Pīnyīn).
+* **Distractor Pool:** Pīnyīn headwords as distractors are drawn from the full 365-card deck.
 
 ---
 
-### Level 4 — Pīnyīn Tone Mastery
+### Level 4 — Tone Mastery
 
 * **Card Serving:** Drawn in random order.
-* **Test Format:** Back-to-Front (Definition → Pinyin).
-* **Distractor Pool:** Focuses specifically on Pinyin tone variations. The goal is to train tone discrimination, which many students find to be one of the hardest parts of learning Mandarin. Valid tone variations come first, drawn from real words in the full dictionary, including words outside the 365-card deck.
+* **Test Format:** Back-to-Front (Definition → Pīnyīn).
+* **Distractor Pool:** Focuses specifically on Pīnyīn tone variations. The goal is to train tone discrimination, which many students find to be one of the hardest parts of learning Mandarin. Headwords are drawn from the full dictionary, including words outside the 365-card deck.
 
 ---
 
@@ -90,7 +90,7 @@ Changes made directly in the Flashcard boxes are also reflected in the Quiz Game
 
 * **Card Serving:** Drawn in random order.
 * **Test Format:** Uses a continuous 12-Step Rhythm Loop that cycles through all test modes:
-  * **Steps 1–6:** Front-to-Back (Pinyin → Definition)
-  * **Steps 7–9:** Back-to-Front Local (Definition → Pinyin)
+  * **Steps 1–6:** Front-to-Back (Pīnyīn → Definition)
+  * **Steps 7–9:** Back-to-Front Local (Definition → Pīnyīn)
   * **Steps 10–12:** Back-to-Front Tones (Definition → Tone options)
 * **Goal:** Maintain long-term mastery through regular mixed-mode review, just as cards in Leitner Box 5 are periodically reviewed rather than considered permanently finished.
