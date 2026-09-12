@@ -1,3 +1,4 @@
+cd /Users/alfons/Projekte/pe-homepage 
 hugo server
 
 

@@ -1,0 +1,23 @@
+<div class="download-card">
+  <img src="{{ .Get "icon" }}" alt="{{ .Get "title" }} Icon" class="app-icon" />
+  <div class="download-info">
+    <h3>{{ .Get "title" }}</h3>
+    <p>{{ .Get "desc" }}</p>
+    {{ $badgeType := .Get "badge_type" | default "default" }}
+    {{ if .Get "url" }}
+      <a href="{{ .Get "url" }}" target="_blank" rel="noopener" class="{{ if eq $badgeType "macos_app_store" }}store-link{{ else }}text-download-btn{{ end }}">
+        {{ if eq $badgeType "macos_app_store" }}
+          <img src="{{ .Get "badge" | default "/images/download_on_mac_app_store.svg" }}" alt="Download on the Mac App Store" class="store-badge" />
+        {{ else }}
+          {{ .Get "badge_text" | default "Download" }}
+        {{ end }}
+      </a>
+    {{ else }}
+      {{ if eq $badgeType "macos_app_store" }}
+        <span class="status-badge">Available Soon on the Mac App Store</span>
+      {{ else }}
+        <span class="status-badge">{{ .Get "badge_text" | default "Available Soon" }}</span>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>

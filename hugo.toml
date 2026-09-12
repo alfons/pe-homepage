@@ -5,15 +5,45 @@ theme = "PaperMod"
 copyright = "© 2025–2026 Alfons Grabher"
 
 [params]
+hideTopLink = false
 defaultTheme = "auto"
 disableThemeToggle = true
+disableAnchoredHeadings = true
 
-[[menu.main]]
-name = "Method"
-url = "/method/"
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.en.settings]
+disableThemeToggle = true
+
+[[languages.en.menu.main]]
+name = "Download"
+url = "/download/"
 weight = 10
 
-[[menu.main]]
-name = "About"
-url = "/about/"
+[[languages.en.menu.main]]
+name = "Support"
+url = "/support/"
 weight = 20
+
+[[languages.en.menu.footer]]
+name = "Privacy Policy"
+url = "/privacy/"
+weight = 10
+
+[[languages.en.menu.footer]]
+name = "Imprint"
+url = "/imprint/"
+weight = 20
+
+[params.assets]
+favicon = "favicon.svg"
+favicon16x16 = "favicon.svg"
+favicon32x32 = "favicon.svg"
+apple_touch_icon = "favicon.svg"
+
+[params.label]
+text = "Pīnyīn Explorer"
+icon = "favicon.svg"
+iconHeight = 24

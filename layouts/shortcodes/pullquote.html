@@ -1,0 +1,11 @@
+<div class="pullquote">
+
+  {{ if .Get "title" }}
+
+    {{ $level := .Get "level" | default "h2" }}
+
+    {{ printf "<%s class=\"pullquote-title\">%s</%s>" $level (.Get "title") $level | safeHTML }}
+
+  {{ end }}
+
+</div>

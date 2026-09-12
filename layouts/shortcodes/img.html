@@ -1,0 +1,8 @@
+<figure class="custom-img-container {{ if .Get "shadow" }}has-shadow{{ end }} {{ .Get "class" }}">
+  <img src="{{ .Get "src" }}" 
+       alt="{{ .Get "alt" | default "" }}" 
+       loading="lazy" />
+  {{ with .Get "subtitle" | default (.Get "alt") }}
+    <figcaption class="img-subtitle">{{ . | markdownify }}</figcaption>
+  {{ end }}
+</figure>

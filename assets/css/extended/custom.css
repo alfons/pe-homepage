@@ -1,51 +1,405 @@
-/* Make method list cards a bit nicer */
+/* ==========================================================================
+   1. Typography & @font-face
+   ========================================================================== */
+
+/* Crimson Text - Headings */
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/fonts/CrimsonText-Bold.ttf") format('truetype');
+}
+
+/* IBM Plex Sans - Body Text */
+@font-face {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('/fonts/IBMPlexSans-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('/fonts/IBMPlexSans-Bold.woff2') format('woff2');
+}
+
+/* Body & Input Base Fonts */
+body,
+p,
+li,
+input,
+textarea {
+    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Heading Base Fonts */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.hero-title {
+    font-family: Georgia, serif;
+    _font-family: 'Crimson Text', Georgia, serif;
+    font-weight: 700;
+    text-wrap: balance;
+}
+
+/* Markdown Content Elements */
+.md-content h3 {
+    margin: 2.125rem 0 1.5rem 0;
+}
+
+.md-content blockquote {
+    border-inline-start: 0.3rem solid var(--secondary);
+}
+
+
+/* ==========================================================================
+   2. Hero Section
+   ========================================================================== */
+
+.hero-breakout {
+    width: min(var(--nav-width, 75rem), 100vw - (var(--gap) * 2));
+    margin-left: calc((100% - min(var(--nav-width, 75rem), 100vw - (var(--gap) * 2))) / 2);
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+
+/* Scroll container restricted to the image element so the caption stays fixed */
+.hero-scroll-container {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    
+    /* Hide scrollbar for Webkit browsers (Chrome, Safari, Edge) */
+    &::-webkit-scrollbar {
+        display: none;
+    }
+    
+    /* Hide scrollbar for Firefox */
+    scrollbar-width: none;
+}
+
+.hero-scroll-container .hero-image,
+.hero-scroll-container .hero-image-shadow {
+    min-width: 37.5rem; /* Adjust this breakpoint value as needed */
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius, 0.25rem);
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.hero-scroll-container .hero-image-shadow {
+    box-shadow: 0 0.625rem 1.875rem rgba(0, 0, 0, 0.08), 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+    margin: 1.5rem auto;
+}
+
+.hero-breakout .image-caption {
+    text-align: center;
+    color: var(--primary);
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0.5rem 0 1rem;
+}
+
+.hero-breakout .hero-title {
+    font-size: var(--h1, 2.25rem);
+    font-weight: 700;
+    margin-top: 1.25rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+    color: var(--primary);
+}
+
+.hero-breakout .hero-title-super {
+    font-size: clamp(3.5rem, 6vw, 4rem);
+    letter-spacing: 0;
+    line-height: 1.15;
+    /* for Crimson Text */
+    _font-size: clamp(4rem, 8vw, 4.75rem);
+    _letter-spacing: -0.02em;
+    _line-height: 1.0;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    max-width: 51.25rem;
+    margin: 1.25rem auto;
+    color: var(--primary);
+    text-wrap: balance;
+}
+
+.hero-breakout .hero-subtitle {
+    font-size: 1.15rem;
+    line-height: 1.5;
+    max-width: 46.875rem;
+    margin: 0.5rem auto 0 auto;
+    text-wrap: balance;
+}
+
+.hero-breakout .hero-title-super + .hero-subtitle {
+    max-width: 45rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+}
+
+/* ==========================================================================
+   3. Content Components (Cards & Grids)
+   ========================================================================== */
+
+/* Post Entries */
 .post-entry {
-  padding: 1.4rem 1.6rem;
+    padding: 1.4rem 1.6rem;
 }
 
 .post-entry .entry-header h2 {
-  font-size: 1.35rem;
-  margin-bottom: 0.4rem;
+    font-size: 1.35rem;
+    margin-bottom: 0.4rem;
 }
 
 .post-entry .entry-content p {
-  font-size: 0.95rem;
-  line-height: 1.55;
-  color: var(--secondary);
-  margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: var(--secondary);
+    margin: 0;
 }
 
-/* Optional: slightly stronger hover */
 .post-entry:hover {
-  transform: none;
+    transform: none;
 }
 
+/* Card Grid */
 .card-grid {
-  display: grid;
-  gap: 1.5rem;
-  /* grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); */
+    display: grid;
+    gap: 1.5rem;
 }
 
 .card {
-  border: 1px solid var(--border-color, #e5e5e5);
-  border-radius: 8px;
-  padding: 1.25rem;
-  transition: box-shadow 0.2s;
-  background-color: white;
+    border: 1px solid var(--border-color, #e5e5e5);
+    border-radius: 0.5rem;
+    padding: 1.25rem;
+    transition: box-shadow 0.2s;
+    background-color: white;
 }
 
 .card:hover {
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.08);
 }
 
 .card-title {
-  margin: 0 0 0.5rem;
-  font-size: 1.25rem;
+    margin: 0 0 0.5rem;
+    font-size: 1.25rem;
 }
 
 .card-description {
-  margin: 0;
-  color: var(--text-muted, #666);
-  font-size: 0.95rem;
-  line-height: 1.45;
+    margin: 0;
+    color: var(--text-muted, #666);
+    font-size: 0.95rem;
+    line-height: 1.45;
+}
+
+/* Callout Box */
+.content-box {
+    border: 1px solid var(--border-color, #e5e5e5);
+    border-radius: 0.75rem;
+    padding: 1.5rem 1.75rem;
+    margin: 2rem 0;
+    background-color: var(--entry, #FAF9F6);
+}
+
+.content-box p {
+    margin-bottom: 1rem;
+}
+
+.content-box p:last-child {
+    margin-bottom: 0;
+}
+
+.dark .content-box {
+    border-color: var(--border, #333);
+    background-color: var(--entry, #1d1e20);
+}
+
+
+/* ==========================================================================
+   4. Images & Utilities
+   ========================================================================== */
+
+.subtle-shadow {
+    box-shadow: 0 0.25rem 1.375rem rgba(0, 0, 0, 0.28);
+    border-radius: 0.5rem;
+}
+
+.dark .subtle-shadow {
+    box-shadow: 0 0.25rem 1.375rem rgba(0, 0, 0, 0.4);
+}
+
+.custom-img-container {
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+.custom-img-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.custom-img-container.has-shadow img {
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.08);
+    border-radius: 0.25rem;
+}
+
+.dark .custom-img-container.has-shadow img {
+    box-shadow: 0 0.25rem 0.875rem rgba(0, 0, 0, 0.4);
+}
+
+.img-subtitle {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    opacity: 0.75;
+    text-align: center;
+    font-style: normal;
+}
+
+
+/* ==========================================================================
+   5. Download Cards & Badges
+   ========================================================================== */
+
+.download-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+}
+
+.md-content .download-card img.app-icon {
+    width: 6rem;
+    height: 6rem;
+    max-width: none;
+    flex-shrink: 0;
+    margin: 0;
+    border-radius: 0;
+}
+
+.download-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.download-info h3 {
+    margin: 0 0 0.5rem 0;
+}
+
+.download-info p {
+    margin: 0 0 1.25rem 0;
+}
+
+.download-card a.store-link {
+    display: inline-block;
+    line-height: 0;
+}
+
+.md-content .download-card img.store-badge {
+    height: 3rem;
+    width: auto;
+    max-width: none;
+    margin: 0;
+    border-radius: 0;
+}
+
+.download-info .status-badge {
+    display: inline-block;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--secondary);
+    border: 1px dashed var(--border);
+    border-radius: 0.375rem;
+    background: transparent;
+}
+
+
+/* ==========================================================================
+   6. Footer
+   ========================================================================== */
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    font-size: 0.8125rem;
+}
+
+.footer-nav {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.footer-separator {
+    color: var(--secondary);
+    opacity: 0.6;
+    user-select: none;
+}
+
+.footer a {
+    color: var(--secondary);
+    text-decoration: none;
+    transition: color 0.15s ease;
+}
+
+.footer a:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}
+
+
+/* ==========================================================================
+   Pull Quote
+   ========================================================================== */
+
+.pullquote {
+    position: relative;
+    margin: 2.5rem auto;
+    padding: 0.5rem 3rem 0.5rem 3rem;
+    text-align: center;
+}
+
+.pullquote .pullquote-title {
+    position: relative;
+    margin: 0;
+    font-family: Georgia, serif;
+    font-size: clamp(2rem, 4vw, 2rem);
+    font-weight: 600;
+    line-height: 1.2;
+    color: var(--primary);
+    text-wrap: balance;
+}
+
+.pullquote .pullquote-title::before {
+    content: "“";
+    position: absolute;
+    left: -2.5rem;
+    top: -0.65rem;
+    font-family: Georgia, serif;
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--secondary);
+    opacity: 0.45;
 }

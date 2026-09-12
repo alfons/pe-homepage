@@ -1,0 +1,45 @@
+<footer class="footer">
+    <div class="footer-content">
+        {{- if .Site.Copyright }}
+        <span>{{ .Site.Copyright | markdownify }}</span>
+        {{- else }}
+        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a></span>
+        {{- end }}
+
+        {{- $footerMenu := site.Menus.footer }}
+        {{- if $footerMenu }}
+        <span class="footer-separator">&middot;</span>
+        <nav class="footer-nav">
+            {{- range $index, $item := $footerMenu }}
+            {{- if $index }}<span class="footer-separator">&middot;</span>{{- end }}
+            <a href="{{ $item.URL | absLangURL }}">{{ $item.Name }}</a>
+            {{- end }}
+        </nav>
+        {{- end }}
+        <span class="footer-separator">&middot;</span>
+        <span>
+            Powered by
+            <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &amp;
+            <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+        </span>
+    </div>
+</footer>
+
+{{- if (not site.Params.disableScrollToTop) }}
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg"  fill="currentColor" viewBox="0 0 256 256"><path d="M213.66,197.66a8,8,0,0,1-11.32,0L128,123.31,53.66,197.66a8,8,0,0,1-11.32-11.32l80-80a8,8,0,0,1,11.32,0l80,80A8,8,0,0,1,213.66,197.66ZM48,80H208a8,8,0,0,0,0-16H48a8,8,0,0,0,0,16Z"></path></svg>
+</a>
+
+<script>
+    let mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+</script>
+{{- end }}

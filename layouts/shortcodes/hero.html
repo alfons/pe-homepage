@@ -1,0 +1,26 @@
+<div class="hero-breakout">
+  {{ if .Get "src" }}
+    <div class="hero-scroll-container">
+      <img src="{{ .Get "src" }}" alt="{{ .Get "alt" | default (.Get "title") }}" class="hero-image{{ if eq (.Get "shadow") "true" }} hero-image-shadow{{ end }}" />
+    </div>
+  {{ end }}
+
+  {{ if .Get "caption" }}
+    <figcaption class="image-caption">{{ .Get "caption" }}</figcaption>
+  {{ else if and (.Get "alt") (not (.Get "title")) (not (.Get "subtitle")) }}
+    <figcaption class="image-caption">{{ .Get "alt" }}</figcaption>
+  {{ end }}
+
+  {{ if .Get "title" }}
+    {{ $level := .Get "level" | default "h2" }}
+    {{ if eq $level "h0" }}
+      <h1 class="hero-title hero-title-super">{{ .Get "title" }}</h1>
+    {{ else }}
+      {{ printf "<%s class=\"hero-title\">%s</%s>" $level (.Get "title") $level | safeHTML }}
+    {{ end }}
+  {{ end }}
+
+  {{ if .Get "subtitle" }}
+    <p class="hero-subtitle">{{ .Get "subtitle" }}</p>
+  {{ end }}
+</div>
