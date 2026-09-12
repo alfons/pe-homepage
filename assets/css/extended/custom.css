@@ -80,19 +80,20 @@ h6,
     width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-    
+
     /* Hide scrollbar for Webkit browsers (Chrome, Safari, Edge) */
     &::-webkit-scrollbar {
         display: none;
     }
-    
+
     /* Hide scrollbar for Firefox */
     scrollbar-width: none;
 }
 
 .hero-scroll-container .hero-image,
 .hero-scroll-container .hero-image-shadow {
-    min-width: 37.5rem; /* Adjust this breakpoint value as needed */
+    min-width: 37.5rem;
+    /* Adjust this breakpoint value as needed */
     width: 100%;
     height: auto;
     border-radius: var(--radius, 0.25rem);
@@ -147,7 +148,7 @@ h6,
     text-wrap: balance;
 }
 
-.hero-breakout .hero-title-super + .hero-subtitle {
+.hero-breakout .hero-title-super+.hero-subtitle {
     max-width: 45rem;
     font-size: 1.25rem;
     line-height: 1.5;
@@ -368,6 +369,12 @@ h6,
     text-decoration: underline;
 }
 
+@media screen and (max-width: 900px) {
+    .list .top-link {
+        transform: translateY(0) !important;
+        bottom: 2rem;
+    }
+}
 
 /* ==========================================================================
    Pull Quote
