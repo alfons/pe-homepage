@@ -369,6 +369,10 @@ h6,
     text-decoration: underline;
 }
 
+.list .top-link {
+    bottom: 2rem;
+}
+
 @media screen and (max-width: 900px) {
     .list .top-link {
         transform: translateY(0) !important;
@@ -409,4 +413,56 @@ h6,
     line-height: 1;
     color: var(--secondary);
     opacity: 0.45;
+}
+
+.manifesto-card-container {
+    text-align: center;
+    max-width: 680px;
+    margin: 3rem auto;
+    padding: 2.25rem 2rem;
+    background-color: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: var(--radius, 8px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.manifesto-card-icon {
+    margin-bottom: 0.85rem;
+    color: var(--primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.manifesto-card-text {
+    font-size: 1.05rem;
+    line-height: 1.65;
+    color: var(--primary);
+    margin: 0;
+}
+
+.manifesto-card-link {
+    font-weight: 600;
+    color: var(--primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-color: var(--secondary);
+    transition: text-decoration-color 0.2s ease, color 0.2s ease;
+}
+
+.manifesto-card-link:hover {
+    text-decoration-color: var(--primary);
+}
+
+/* Mobile responsiveness adjustment */
+@media (max-width: 684px) {
+    .manifesto-card-container {
+        padding: 1.75rem 1.25rem;
+        margin: 2rem 0.5rem;
+    }
+
+    .manifesto-card-text {
+        font-size: 0.975rem;
+    }
 }

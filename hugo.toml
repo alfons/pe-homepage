@@ -28,6 +28,11 @@ url = "/support/"
 weight = 20
 
 [[languages.en.menu.footer]]
+name = "Manifesto"
+url = "/manifesto/"
+weight = 5
+
+[[languages.en.menu.footer]]
 name = "Privacy Policy"
 url = "/privacy/"
 weight = 10
@@ -45,5 +50,3 @@ apple_touch_icon = "favicon.svg"
 
 [params.label]
 text = "Pīnyīn Explorer"
-icon = "favicon.svg"
-iconHeight = 24
