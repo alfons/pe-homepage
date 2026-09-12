@@ -31,7 +31,7 @@ Reading is indispensable not merely because it supplies “more input,” but be
 Just imagine an English speaker who has never read a word of, say, Charles Dickens, Edgar Allan Poe, George Eliot, Arthur Conan Doyle, H. G. Wells, Mark Twain, Ayn Rand, Raymond Carver, or David Sedaris.
 Such a person may know English perfectly well as a means of everyday communication, yet remain untouched by a vast portion of the language’s accumulated expressive and intellectual resources.
 
-In this sense, the written word is a bridge across time and space that lets us commune directly with the meticulously refined intellects who poured their utmost clarity, passion, and genius onto the page.
+The written word is a bridge across time and space that lets us commune directly with the meticulously refined intellects who poured their utmost clarity, passion, and genius onto the page.
 
 The Mandarin-speaking world, too, has its Dickens, its Poe, its Eliot—literary titans whose psychological depth, satirical bite, and mastery of narrative are no less remarkable.
 
@@ -39,13 +39,13 @@ From giants like 曹雪芹 Cáo Xuěqín, 魯迅 Lǔ Xùn, 張愛玲 Zhāng Àil
 
 This means that Chinese literature isn’t hidden away from the West because it lacks depth, emotional resonance, or world-class genius. The ideas, the psychological acuity, and the heights of storytelling are all there. The real, first barrier is the immense wall of the Chinese writing system itself.
 
-But even after many months of studying Mandarin, most students will still struggle with basic reading, for example:
+But even after many months of studying Mandarin, most students will still struggle with basic reading. Consider the following sentence, for example. An HSK 4–5 learner would not be expected to read it comfortably:
 
 {{< box >}}
 学习中文存在一个奇特的瓶颈：学习拼音文字时，你第一天就能朗读并开始交流；而学习中文，你却需要先克服汉字这一高昂的门槛，才能真正实现阅读。
 {{< /box >}}
 
-Therefore, I suggest skipping the character barrier (at least at first.) Here is the same paragraph, instantly readable, even if we still have to learn the vocabulary. Learning the actual language is hard enough on its own:
+Therefore, I suggest skipping the character barrier (at least at first.) Here is the same paragraph in Pīnyīn: you can read it aloud immediately, even if we still have to learn the vocabulary. Learning the actual language is hard enough on its own:
 
 {{< box >}}
 Xuéxí Zhōngwén cúnzài yī gè qítè de píngjǐng: xuéxí pīnyīn wénzì shí, nǐ dì-yī tiān jiù néng lǎngdú bìng kāishǐ jiāoliú; ér xuéxí Zhōngwén, nǐ què xūyào xiān kèfú Hànzì zhè yī gāo’áng de ménkǎn, cái néng zhēnzhèng shíxiàn yuèdú.
