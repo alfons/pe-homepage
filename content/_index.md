@@ -45,7 +45,7 @@ But even after many months of studying Mandarin, most students will still strugg
 学习中文存在一个奇特的瓶颈：学习拼音文字时，你第一天就能朗读并开始交流；而学习中文，你却需要先克服汉字这一高昂的门槛，才能真正实现阅读。
 {{< /box >}}
 
-Therefore, I suggest skipping the character barrier (at least at first.) Here is the same paragraph in Pīnyīn: you can read it aloud immediately, even if we still have to learn the vocabulary. Learning the actual language is hard enough on its own:
+Therefore, I suggest skipping the character barrier (at least at first.) Here is the same paragraph in Pīnyīn: we can read it aloud immediately, even if we still have to learn the vocabulary. Learning the actual language is hard enough on its own:
 
 {{< box >}}
 Xuéxí Zhōngwén cúnzài yī gè qítè de píngjǐng: xuéxí pīnyīn wénzì shí, nǐ dì-yī tiān jiù néng lǎngdú bìng kāishǐ jiāoliú; ér xuéxí Zhōngwén, nǐ què xūyào xiān kèfú Hànzì zhè yī gāo’áng de ménkǎn, cái néng zhēnzhèng shíxiàn yuèdú.
