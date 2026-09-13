@@ -25,9 +25,9 @@ The Pīnyīn Explorer Method helps you bypass this massive first barrier so you 
 
 You bring complex ideas, professional expertise, and a distinct sense of humor to the table. Yet traditional pedagogy infantilizes adult learners, reducing modern Mandarin to sterile, paint-by-numbers scripts:
 
-> 我喜欢吃中国菜。 *Wǒ xǐhuan chī Zhōngguó cài.* — *I like to eat Chinese food.*  
-> 你是学生吗？ *Nǐ shì xuésheng ma?* — *Are you a student?*  
-> 对不起，我迟到了。 *Duìbuqǐ, wǒ chídào le.* — *Sorry I'm late.*  
+* 图书馆在哪儿？ Túshūguǎn zài nǎr? — *Where is the library?*
+* 你家有几口人？ Nǐ jiā yǒu jǐ kǒu rén? — *How many people are in your family?*
+* 我每天八点去学校。 Wǒ měitiān bā diǎn qù xuéxiào. — *I go to school at eight o'clock every day.*
 
 {{< pullquote title="Chinese literature is vast, vibrant, and brilliant—the real barrier is simply access" >}}
 
