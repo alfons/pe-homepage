@@ -17,7 +17,7 @@ description: "Native macOS apps that take you straight into modern Mandarin thro
 {{< download_item 
     title="Pīnyīn Explorer" 
     icon="/images/pinyin_explorer_icon.png" 
-    desc="A thoughtfully designed Pīnyīn-first Chinese–English dictionary for exploring the structure of Mandarin vocabulary. Including a classic five-box Leitner flashcard and quiz system with pedagogically structured learning progressions for 365 core anchor words." 
+    desc="A thoughtfully designed Pīnyīn-first Chinese–English dictionary for exploring the structure of Mandarin vocabulary. Includes 114,000+ entries, cascading multi-column layouts, adjustable dictionary scopes (HSK 3.0 or frequency-based), a classic 5-box Leitner flashcard system, and a quiz system with pedagogically structured learning progressions for 365 core anchor words." 
     badge_type="macos_app_store"
     url=""
 >}}
@@ -27,7 +27,7 @@ description: "Native macOS apps that take you straight into modern Mandarin thro
 {{< download_item 
     title="Pīnyīn A-Z Soundboard" 
     icon="/images/pinyin_soundboard_icon.png" 
-    desc="Speak Mandarin from day one. The complete monosyllabic, phonotactic, and morphemic inventory of modern Mandarin. The ultimate Pīnyīn chart. 2,000+ native recordings, pitch visualizer, and extensive search and filtering options." 
+    desc="Speak Mandarin from day one. The complete monosyllabic, phonotactic, and morphemic inventory of modern Mandarin. The ultimate Pīnyīn chart featuring 2,000+ native recordings, pitch visualizer, keyboard navigation, autoplay, as well as extensive search, sorting, and filtering options." 
     badge_type="macos_app_store"
     url=""
 >}}
@@ -37,7 +37,7 @@ description: "Native macOS apps that take you straight into modern Mandarin thro
 {{< download_item 
     title="Peekaboo Reader" 
     icon="/images/peekaboo_reader_icon.png" 
-    desc="A plain-text reading environment with adjustable Pīnyīn visibility. Podcast and TV drama subtitles, web novels, sci-fi, romance, wuxia, lifestyle stories… drop in anything you actually want to read." 
+    desc="A plain-text reading environment with adjustable Pīnyīn visibility. Paste Chinese characters directly into the Peekaboo Reader and the built-in engine automatically converts text into Pīnyīn sentences following official GB/T 16159-2012 orthographic standards. Podcast and TV drama subtitles, web novels, sci-fi, romance, wuxia, lifestyle stories… drop in anything you actually want to read." 
     badge_type="macos_app_store"
     url=""
 >}}

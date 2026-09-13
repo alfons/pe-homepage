@@ -62,14 +62,14 @@ Speak Mandarin from day one. The complete monosyllabic, phonotactic, and morphem
 {{< img src="/images/pinyin_az_soundboard_hero_sans@1.webp" alt="Pīnyīn A-Z Soundboard" shadow="true" >}}
 
 ## Pīnyīn Explorer — Pīnyīn-First Chinese-English Dictionary & Flashcards
-A thoughtfully designed Pīnyīn-first Chinese–English dictionary for exploring the structure of Mandarin vocabulary. Includes 114,000+ entries, cascading multi-column layouts, adjustable dictionary scopes (HSK 3.0 or frequency-based), a classic 5-box Leitner flashcard system, and a well engineered Quiz to help you learn the 365 core anchor words.
+A thoughtfully designed Pīnyīn-first Chinese–English dictionary for exploring the structure of Mandarin vocabulary. Includes 114,000+ entries, cascading multi-column layouts, adjustable dictionary scopes (HSK 3.0 or frequency-based), a classic 5-box Leitner flashcard system, and a quiz system with pedagogically structured learning progressions for 365 core anchor words.
 
 {{< img src="/images/pinyin_explorer_hero_sans@1.webp" alt="Pīnyīn Explorer's Dictionary" shadow="true" >}}
 
 {{< img src="/images/pinyin_explorer_kai1shi3.webp" alt="Pīnyīn Explorer's Flashcards" shadow="true" >}}
 
 ## Peekaboo Reader — Chinese-to-Pīnyīn Text Converter & Reader
-A plain-text reading environment with adjustable Pīnyīn visibility. Paste raw Chinese characters directly into the Peekaboo Reader and the built-in engine automatically converts text into natural, readable Pīnyīn sentences following official **GB/T 16159-2012** orthographic standards.
+A plain-text reading environment with adjustable Pīnyīn visibility. Paste Chinese characters directly into the Peekaboo Reader and the built-in engine automatically converts text into Pīnyīn sentences following official **GB/T 16159-2012** orthographic standards. Podcast and TV drama subtitles, web novels, sci-fi, romance, wuxia, lifestyle stories… drop in anything you actually want to read.
 
 {{< img src="/images/pinyin_peekaboo_reader_hero_sans@1.webp" alt="Pīnyīn Explorer’s Peekaboo Reader" shadow="true" >}}
 
