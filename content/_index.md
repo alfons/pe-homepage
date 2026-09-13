@@ -1,11 +1,11 @@
 ---
 title: ""
 seo_title: "Pīnyīn Explorer — Real Mandarin From Day One"
-description: "Bypass the character barrier and engage directly with modern Mandarin through Hànyǔ Pīnyīn. Native macOS apps for self-directed learners."
+description: "Learn Mandarin fast without memorizing Chinese characters. Explore modern Mandarin literature directly using Hànyǔ Pīnyīn with native macOS apps."
 url: "/"
 ---
 
-{{< hero level="h0" title="Real Mandarin From Day One." subtitle="You don't need to know thousands of Chinese characters to start learning Mandarin. The Pīnyīn Explorer method takes you straight into authentic modern Mandarin through official Hànyǔ Pīnyīn." >}}
+{{< hero level="h0" title="Real Mandarin From Day One." subtitle="You don't need to memorize thousands of Chinese characters to start learning Mandarin. The Pīnyīn Explorer Method takes you straight into authentic modern Mandarin through official Hànyǔ Pīnyīn." >}}
 
 {{< cta_button text="Download macOS Apps" url="/download/" style="primary" >}}
 
@@ -33,7 +33,9 @@ These sentences aren't drawn from real life—actual conversations, literature, 
 
 {{< pullquote title="Chinese literature is vast, vibrant, and brilliant—the real barrier is simply access" >}}
 
-You don't need to put up with sterile textbook scripts when you have the choice to engage with authentic, living language. From historical giants to contemporary masters, Chinese literature is vast, vibrant, and brilliant—the real barrier is simply access. By treating Hànyǔ Pīnyīn as a standalone orthography, you strip away the character drag and unlock immediate access to living literature from day one.
+You don't need to put up with sterile textbook scripts. From Lǔ Xùn and the emergence of modern vernacular literature in the 1920s, through generations of literary titans, to today's enormous world of novels, web fiction, and contemporary writing, the Chinese-language literary world is vast, vibrant, and remarkably diverse. The barrier is almost entirely linguistic access.
+
+By treating Hànyǔ Pīnyīn as a standalone orthography, you strip away the character drag and unlock immediate access to modern Chinese literature, right from the start of your study journey.
 
 ---
 
@@ -54,25 +56,25 @@ Skip graded readers. Drop real podcast transcripts, news articles, and native me
 
 {{< hero level="h0" title="The Pīnyīn Explorer Toolkit" subtitle="The Apps and Exercises with Pen & Paper" >}}
 
-## Pīnyīn A-Z Soundboard
-Speak Mandarin from day one. The complete monosyllabic, phonotactic, and morphemic inventory of modern Mandarin. The ultimate Pinyin chart featuring 2,000+ native recordings, pitch visualizer, keyboard navigation, autoplay, as well as extensive search, sorting, and filtering options.
+## Pīnyīn A-Z Soundboard — Interactive Pīnyīn Chart with Audio
+Speak Mandarin from day one. The complete monosyllabic, phonotactic, and morphemic inventory of modern Mandarin. The ultimate Pīnyīn chart featuring 2,000+ native recordings, pitch visualizer, keyboard navigation, autoplay, as well as extensive search, sorting, and filtering options.
 
 {{< img src="/images/pinyin_az_soundboard_hero_sans@1.webp" alt="Pīnyīn A-Z Soundboard" shadow="true" >}}
 
-## Pīnyīn Explorer
+## Pīnyīn Explorer — Pīnyīn-First Chinese-English Dictionary & Flashcards
 A thoughtfully designed Pīnyīn-first Chinese–English dictionary for exploring the structure of Mandarin vocabulary. Includes 114,000+ entries, cascading multi-column layouts, adjustable dictionary scopes (HSK 3.0 or frequency-based), a classic 5-box Leitner flashcard system, and a well engineered Quiz to help you learn the 365 core anchor words.
 
 {{< img src="/images/pinyin_explorer_hero_sans@1.webp" alt="Pīnyīn Explorer's Dictionary" shadow="true" >}}
 
 {{< img src="/images/pinyin_explorer_kai1shi3.webp" alt="Pīnyīn Explorer's Flashcards" shadow="true" >}}
 
-## Peekaboo Reader
+## Peekaboo Reader — Chinese-to-Pīnyīn Text Converter & Reader
 A plain-text reading environment with adjustable Pīnyīn visibility. Paste raw Chinese characters directly into the Peekaboo Reader and the built-in engine automatically converts text into natural, readable Pīnyīn sentences following official **GB/T 16159-2012** orthographic standards.
 
 {{< img src="/images/pinyin_peekaboo_reader_hero_sans@1.webp" alt="Pīnyīn Explorer’s Peekaboo Reader" shadow="true" >}}
 
-## Semantic Word Maps
-Learning vocabulary shouldn't happen entirely behind a screen. The hand-drawn maps of the Pīnyīn Explorer method take you off the computer and onto paper to build a personal lexicon. You place a Pīnyīn anchor word at the center, identify its primary senses, and curate your own compound families directly from the dictionary. 
+## Semantic Word Maps — A Hands-On Mandarin Vocabulary Method
+Learning vocabulary shouldn't happen entirely behind a screen. The hand-drawn maps of the Pīnyīn Explorer Method take you off the computer and onto paper to build a personal lexicon. You place a Pīnyīn anchor word at the center of a page, map its primary senses like a mind map, and add compound words of your own choice directly from the dictionary.
 
 Instead of memorizing generic textbook lists, you select the exact words that are meaningful, useful, and fun to you—practicing proper orthographic spelling and engaging with the language on your own terms.
 
@@ -88,7 +90,7 @@ Instead of memorizing generic textbook lists, you select the exact words that ar
 
 {{< hero level="h0" title="Immediate Access to Modern Literature" subtitle="Read real Chinese from day one" >}}
 
-Consider the following sentence. Even after many months of studying Mandarin, an HSK 4–5 learner would not be expected to read it comfortably:
+Consider the following sentence. Even after many months of studying Mandarin, an HSK 4–5 learner would not be expected to read it comfortably in Hànzì:
 
 {{< box >}}
 学习中文存在一个奇特的瓶颈：学习拼音文字时，你第一天就能朗读并开始交流；而学习中文，你却需要先克服汉字这一高昂的门槛，才能真正实现阅读。
@@ -126,7 +128,7 @@ Jiùshì zhè yī miǎo. Jiùshì xiànzài, tā duì miànqián gézhe yī gè 
 Tóng Nián dītóu, shǒuzhǐ zài jiànpán shàng pīli-pālā de qiāo ya qiāo, míngmíng xiǎngyào jiànlì yī gè xīn mìmǎ, kě, nǎozi lǐ què zài pīnmìng de huíxiǎng, qián yī miǎo, tā duì zìjǐ shuō “bāoyè” liǎng gè zì de shíhòu, zìjǐ jiūjìng yǒu méiyǒu duì tā xiào? Hǎoxiàng zuǐjiǎo yǒu shàngyáng? Háishì chúndāi?
 {{< /box >}}
 
-Whether it’s the foundational social commentary of Lǔ Xùn (鲁迅), cosmic hard sci-fi, or contemporary romance, treating Hànyǔ Pīnyīn as an independent orthography unlocks the entire spectrum of modern Chinese literature from day one.
+Whether it’s the foundational social commentary of Lǔ Xùn (鲁迅), mind-blowing sci-fi, or laugh-out-loud romance, treating Hànyǔ Pīnyīn as an independent orthography gives you countless great works of modern Chinese literature to explore from day one.
 
 ---
 
