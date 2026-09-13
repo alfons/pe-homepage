@@ -50,10 +50,6 @@ Skip graded readers. Drop real podcast transcripts, news articles, and native me
 
 ---
 
-{{< manifesto_card >}}
-
----
-
 {{< hero level="h0" title="The Pīnyīn Explorer Toolkit" subtitle="The Apps and Exercises with Pen & Paper" >}}
 
 ## Pīnyīn A-Z Soundboard
@@ -81,6 +77,10 @@ Instead of memorizing generic textbook lists, you select the exact words that ar
 {{< img src="/images/coffee_and_chinese@1.webp" alt="Semantic Word Maps" shadow="true" >}}
 
 {{< img src="/images/pinyin_explorer_word_maps.webp" alt="One word map a day for 365 days, or two for 6 months." shadow="true" >}}
+
+---
+
+{{< manifesto_card >}}
 
 ---
 
