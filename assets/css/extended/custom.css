@@ -209,27 +209,71 @@ h6,
     line-height: 1.45;
 }
 
-/* Callout Box */
+
+/* ===================== CONTENT BOX ============ */
+
+/* Container reset */
+.content-box-container {
+    margin: 2rem 0;
+    padding: 0;
+}
+
+/* Card Box (Matches PaperMod entry style & image shadow) */
 .content-box {
     border: 1px solid var(--border-color, #e5e5e5);
     border-radius: 0.75rem;
     padding: 1.5rem 1.75rem;
-    margin: 2rem 0;
     background-color: var(--entry, #FAF9F6);
 }
 
-.content-box p {
+/* Optional Shadow Modifier Class */
+.content-box.has-shadow {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+}
+
+.dark .content-box.has-shadow {
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+/* Header: Classic Printed Matter Style */
+.content-box .box-header {
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--secondary);
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.65rem;
+    border-bottom: 1px solid var(--border);
+}
+
+/* Main Text Body (Standard Article Font Size) */
+.content-box .box-body {
+    line-height: 1.7;
+    color: var(--primary);
+}
+
+.content-box .box-body p {
     margin-bottom: 1rem;
 }
 
-.content-box p:last-child {
+.content-box .box-body p:last-child {
     margin-bottom: 0;
 }
 
-.dark .content-box {
-    border-color: var(--border, #333);
-    background-color: var(--entry, #1d1e20);
+/* Subtitle / Caption Outside the Card (Identical to .img-subtitle / PaperMod figure captions) */
+.content-box-container .box-subtitle {
+    margin-top: 0.65rem;
+    font-size: 0.85rem;
+    color: var(--secondary);
+    text-align: center;
+    font-style: normal;
+    line-height: 1.4;
+    text-wrap: balance;
 }
+
+/* ===================== CONTENT BOX END ============ */
 
 
 /* ==========================================================================
@@ -272,6 +316,8 @@ h6,
     opacity: 0.75;
     text-align: center;
     font-style: normal;
+        text-wrap: balance;
+
 }
 
 

@@ -65,6 +65,8 @@ Therefore, I suggest skipping the character barrier (at least at first.) Here is
 Xuéxí Zhōngwén cúnzài yī gè qítè de píngjǐng: xuéxí pīnyīn wénzì shí, nǐ dì-yī tiān jiù néng lǎngdú bìng kāishǐ jiāoliú; ér xuéxí Zhōngwén, nǐ què xūyào xiān kèfú Hànzì zhè yī gāo’áng de ménkǎn, cái néng zhēnzhèng shíxiàn yuèdú.
 {{< /box >}}
 
+Concerning homophones, in modern Mandarin, two-syllable Hànyǔ Pīnyīn words are 98.4% unique in everyday vocabulary, with context effortlessly resolving the rest—provided official GB/T 16159-2012 orthography is followed. [Read the Empirical Analysis of Pīnyīn Uniqueness →](https://alfons.github.io/PinyinUniquenessStudy/)
+
 Traditional methods build their curriculum around mastering 2,500 to 3,500 individual characters. For every character, alongside its meaning you also have to memorize its pronunciation, its components and radicals, and its stroke order.
 
 That baseline alone creates 10,000 to 14,000 individual character-related learning targets. Factor in handwriting and you might be looking at double or triple that (42,000), all required long before you ever get the chance to read real literature or authentic stories.

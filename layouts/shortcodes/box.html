@@ -1,3 +1,15 @@
-<div class="content-box">
-  {{ .Inner | markdownify }}
-</div>
+<figure class="content-box-container">
+  <div class="content-box {{ if eq (.Get "shadow") "true" }}has-shadow{{ end }}">
+    {{ with .Get "header" }}
+      <div class="box-header">{{ . }}</div>
+    {{ end }}
+
+    <div class="box-body">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+
+  {{ with .Get "subtitle" }}
+    <figcaption class="img-subtitle">{{ . }}</figcaption>
+  {{ end }}
+</figure>
