@@ -9,7 +9,7 @@ url: "/"
 
 {{< cta_button text="Download macOS Apps" url="/download/" style="primary" >}}
 
-{{< hero src="/images/book_covers_hanyu_pinyin@1.webp" title="" subtitle="What if… modern Chinese novels could be read entirely in Hànyǔ Pīnyīn, and found in bookstores alongside the world’s great literature?" >}}
+{{< hero src="/images/modern-chinese-novels-pinyin.webp" title="" subtitle="What if… modern Chinese novels could be read entirely in Hànyǔ Pīnyīn, and found in bookstores alongside the world’s great literature?" >}}
 
 ---
 

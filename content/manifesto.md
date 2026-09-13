@@ -5,6 +5,12 @@ seo_description: "Why bypassing the character barrier unlocks immediate access t
 url: "/manifesto/"
 ---
 
+{{< hero level="h0" title="Real Mandarin From Day One." subtitle="You don't need to know thousands of Chinese characters to start learning Mandarin. The Pīnyīn Explorer method takes you straight into authentic modern Mandarin through official Hànyǔ Pīnyīn." >}}
+
+{{< cta_button text="Download macOS Apps" url="/download/" style="primary" >}}
+
+{{< hero src="/images/book_covers_modern_chinese2.webp" title="" subtitle="What if… modern Chinese novels could be read entirely in Hànyǔ Pīnyīn, and found in bookstores alongside the world’s great literature?" >}}
+
 ---
 
 **In this Manifesto:**
@@ -13,14 +19,6 @@ url: "/manifesto/"
 * **Letters That Built the World:** Historical script transitions from Egyptian hieroglyphs to Vietnamese *chữ Quốc ngữ* and the Latin alphabet.
 * **The Pīnyīn Advantage:** Treating Hànyǔ Pīnyīn on the basis of the national standard GB/T 15169-2012 as a standalone orthography.
 * **The Pīnyīn Explorer Toolkit:** An overview of the suite—the A-Z Soundboard, the dictionary, the 365 core anchor words, Flashcards and Quiz Module, and the Peekaboo Reader—which unlocks an authentic reading experience step by step.
-
----
-
-{{< hero level="h0" title="Real Mandarin From Day One." subtitle="You don't need to know thousands of Chinese characters to start learning Mandarin. The Pīnyīn Explorer method takes you straight into authentic modern Mandarin through official Hànyǔ Pīnyīn." >}}
-
-{{< cta_button text="Download macOS Apps" url="/download/" style="primary" >}}
-
-{{< hero src="/images/book_covers_hanyu_pinyin@1.webp" title="" subtitle="What if… modern Chinese novels could be read entirely in Hànyǔ Pīnyīn, and found in bookstores alongside the world’s great literature?" >}}
 
 ---
 
