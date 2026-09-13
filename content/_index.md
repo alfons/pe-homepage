@@ -105,11 +105,11 @@ What if you could dive straight into the original Chinese of Liu Cixin’s maste
 {{< img src="/images/pinyin_explorer_scifi_future_banner.webp" alt="" shadow="true" >}}
 
 {{< box header="Liú Cíxīn • 三体 • ◼︎001" shadow="true" subtitle="Excerpt from Liú Cíxīn’s »The Three-Body Problem« in official Hànyǔ Pīnyīn" >}}
-Wāng Miǎo juéde, lái zhǎo tā de zhè sì gè rén shì yī gè qíguài de zǔ-hé: liǎng míng jǐngchá hé liǎng míng jūnrén, rúguǒ nà liǎng gè jūnrén shì wǔjǐng hái suàn zhèngcháng, dàn zhè shì liǎng míng lùjūn jūnguān.
+Wāng Miǎo juéde, lái zhǎo tā de zhè sì gè rén shì yī gè qíguài de zǔhé: liǎng míng jǐngchá hé liǎng míng jūnrén, rúguǒ nà liǎng gè jūnrén shì wǔjǐng hái suàn zhèngcháng, dàn zhè shì liǎng míng lùjūn jūnguān.
 
 “Qǐng bù yào zài wǒ jiālǐ chōuyān.” Wāng Miǎo lánzhùle tā.
 
-“Nà jiù zài lóudào lǐ shuō ba.” Shǐ Qiáng shuōzhe, shēnshēn de xīle yī dàkǒu, shǒu zhōng de yān jīhū rán xiàqù yībàn, zhīhòu jìng bùjiàn tǔchū yān lái.
+“Nà jiù zài lóudào lǐ shuō ba.” Shǐ Qiáng shuōzhe, shēnshēn de xīle yī dàkǒu, shǒu zhōng de yān jīhū rán xiàqù yībàn.
 {{< /box >}}
 
 Or perhaps your tastes lean more toward the fast-paced, dialogue-rich world of modern Chinese pop culture? What if you could read Mòbǎofēibǎo’s romance hit Honey Stewed Squid (Mìzhī Dùn Yóuyú)—experiencing the immediate, playful inner monologues and authentic conversational flow—without getting read-blocked by a wall of characters?
