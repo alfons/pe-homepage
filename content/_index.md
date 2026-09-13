@@ -23,15 +23,17 @@ The Pīnyīn Explorer Method helps you bypass this massive first barrier so you 
 
 ### Words Carry Meaning
 
-You bring complex ideas, professional expertise, and a distinct sense of humor to the table. Yet traditional pedagogy infantilizes adult learners, reducing modern Mandarin to sterile, paint-by-numbers scripts:
+You bring complex ideas, professional expertise, and a distinct sense of humor to the table. Yet many textbooks infantilize adult learners, reducing modern Mandarin to fabricated, paint-by-numbers scripts:
 
 * 图书馆在哪儿？ Túshūguǎn zài nǎr? — *Where is the library?*
 * 你家有几口人？ Nǐ jiā yǒu jǐ kǒu rén? — *How many people are in your family?*
 * 我每天八点去学校。 Wǒ měitiān bā diǎn qù xuéxiào. — *I go to school at eight o'clock every day.*
 
+These sentences aren't drawn from real life—actual conversations, literature, or the way people really speak and write. They are fabricated for the textbook, constructed to illustrate a particular grammar point or vocabulary item.
+
 {{< pullquote title="Chinese literature is vast, vibrant, and brilliant—the real barrier is simply access" >}}
 
-You don't need to put up with infantile textbook scripts when you have the choice to engage with authentic, living language. From historical giants to contemporary masters, Chinese literature is vast, vibrant, and brilliant—the real barrier is simply access. By treating Hànyǔ Pīnyīn as a standalone orthography, you strip away the character drag and unlock immediate access to living literature from day one.
+You don't need to put up with sterile textbook scripts when you have the choice to engage with authentic, living language. From historical giants to contemporary masters, Chinese literature is vast, vibrant, and brilliant—the real barrier is simply access. By treating Hànyǔ Pīnyīn as a standalone orthography, you strip away the character drag and unlock immediate access to living literature from day one.
 
 ---
 
