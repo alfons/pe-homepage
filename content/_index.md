@@ -96,13 +96,13 @@ Consider the following sentence. Even after many months of studying Mandarin, an
 学习中文存在一个奇特的瓶颈：学习拼音文字时，你第一天就能朗读并开始交流；而学习中文，你却需要先克服汉字这一高昂的门槛，才能真正实现阅读。
 {{< /box >}}
 
-Now look at the exact same sentence in official Hànyǔ Pīnyīn. The character wall is gone. You can parse the text immediately. Perfecting your tones will take a few weeks of deliberate practice—and then you can focus on building vocabulary and learning the language, which will be hard enough on its own:
+Now look at the exact same sentence in official Hànyǔ Pīnyīn below. The character wall is gone. You can parse the text immediately. Perfecting your tones will take a few weeks of deliberate practice—and then you can focus on building vocabulary and learning the language (which will be hard enough even without having to learn Chinese characters):
 
 {{< box >}}
 Xuéxí Zhōngwén cúnzài yī gè qítè de píngjǐng: xuéxí pīnyīn wénzì shí, nǐ dì-yī tiān jiù néng lǎngdú bìng kāishǐ jiāoliú; ér xuéxí Zhōngwén, nǐ què xūyào xiān kèfú Hànzì zhè yī gāo’áng de ménkǎn, cái néng zhēnzhèng shíxiàn yuèdú.
 {{< /box >}}
 
-For a beginner or intermediate learner of Mandarin, the bookstore isn’t off-limits—the characters are. The moment you remove that barrier, the full spectrum of authentic Chinese literature is yours to read:
+For a beginner or intermediate learner of Mandarin, the bookstore isn’t off-limits—the characters are. The moment you remove that barrier, modern Chinese literature is yours to read.
 
 What if you could dive straight into the original Chinese of Liu Cixin’s masterpiece of dark cosmic sci-fi—*The Three-Body Problem*—grappling with the vocabulary, unspooling the syntax, and savoring the cadence of the original prose—without spending five years memorizing characters first?
 
@@ -116,7 +116,7 @@ Wāng Miǎo juéde, lái zhǎo tā de zhè sì gè rén shì yī gè qíguài de
 “Nà jiù zài lóudào lǐ shuō ba.” Shǐ Qiáng shuōzhe, shēnshēn de xīle yī dàkǒu, shǒu zhōng de yān jīhū rán xiàqù yībàn.
 {{< /box >}}
 
-Or perhaps your tastes lean more toward the fast-paced, dialogue-rich world of modern Chinese pop culture? What if you could read Mòbǎofēibǎo’s romance hit Honey Stewed Squid (Mìzhī Dùn Yóuyú)—experiencing the immediate, playful inner monologues and authentic conversational flow—without getting read-blocked by a wall of characters?
+Or perhaps your tastes lean more toward the fast-paced, dialogue-rich world of modern Chinese pop culture? What if you could read Mòbǎofēibǎo’s romance hit *Honey Stewed Squid (Mìzhī Dùn Yóuyú)*—experiencing the playful inner monologues and authentic conversational flow—without getting read-blocked by a wall of characters?
 
 {{< img src="/images/pinyin_explorer_web_novel_romance_banner.webp" alt="" shadow="true" >}}
 

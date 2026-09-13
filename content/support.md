@@ -5,7 +5,7 @@ title: "Support"
 ### Project Contact & Support
 
 * **Email:** ahoj&nbsp;[at]&nbsp;pinyinexplorer&nbsp;[dot]&nbsp;com
-* **Feedback & Messages:** If you'd like to share feedback or suggest a feature to the creator, the best way is to leave a tip along with a message via [PayPal](https://www.paypal.com/donate/?hosted_button_id=3GDAF8BNMHCWC).
+* **Feedback & Messages:** If you'd like to share feedback or suggest a feature, the best way is to leave a tip along with a message via [PayPal](https://www.paypal.com/donate/?hosted_button_id=3GDAF8BNMHCWC).
 
 ---
 
