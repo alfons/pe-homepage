@@ -426,6 +426,24 @@ h6,
     }
 }
 
+/* Smooth scrolling for the whole page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Scroll to top button styling */
+.top-link {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Force visibility when scrolling threshold is crossed */
+.top-link.visible {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
 /* ==========================================================================
    Pull Quote
    ========================================================================== */
