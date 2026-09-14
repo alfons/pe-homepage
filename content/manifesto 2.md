@@ -5,11 +5,11 @@ seo_description: "Why bypassing the character barrier unlocks immediate access t
 url: "/manifesto/"
 ---
 
-{{< hero level="h0" title="From Soundboard to Native Text." subtitle="The methodology and software behind Pīnyīn Explorer Method is designed to take you directly into authentic Mandarin." >}}
+{{< hero level="h0" title="Real Mandarin From Day One." subtitle="You don't need to know thousands of Chinese characters to start learning Mandarin. The Pīnyīn Explorer method takes you straight into authentic modern Mandarin through official Hànyǔ Pīnyīn." >}}
 
 {{< cta_button text="Download macOS Apps" url="/download/" style="primary" >}}
 
-{{< hero src="/images/modern-chinese-novels-pinyin_no_hanzi.webp" title="" subtitle="What if… modern Chinese novels could be read entirely in Hànyǔ Pīnyīn, and found in bookstores alongside the world’s great literature?" >}}
+{{< hero src="/images/book_covers_modern_chinese2.webp" title="" subtitle="What if… modern Chinese novels could be read entirely in Hànyǔ Pīnyīn, and found in bookstores alongside the world’s great literature?" >}}
 
 ---
 
@@ -125,15 +125,7 @@ Hànyǔ Pīnyīn is far more than a pronunciation aid or a way to input Chinese 
 
 ### Immediate access to the language
 
-{{< img src="/images/pinyin_explorer_scifi_future_banner.webp" alt="" shadow="true" >}}
-
-{{< box header="Liú Cíxīn • 三体 • ◼︎001" shadow="true" subtitle="Excerpt from Liú Cíxīn’s »The Three-Body Problem« in official Hànyǔ Pīnyīn" >}}
-Wāng Miǎo juéde, lái zhǎo tā de zhè sì gè rén shì yī gè qíguài de zǔhé: liǎng míng jǐngchá hé liǎng míng jūnrén, rúguǒ nà liǎng gè jūnrén shì wǔjǐng hái suàn zhèngcháng, dàn zhè shì liǎng míng lùjūn jūnguān.
-
-“Qǐng bù yào zài wǒ jiā lǐ chōuyān.” Wāng Miǎo lánzhùle tā.
-
-“Nà jiù zài lóudào lǐ shuō ba.” Shǐ Qiáng shuōzhe, shēnshēn de xīle yī dàkǒu, shǒu zhōng de yān jīhū rán xiàqù yībàn.
-{{< /box >}}
+{{< img src="/images/santi_three_body_problem_pinyin@1.webp" alt="The first paragraph from Liu Cixin’s trilogy »The Three-Body Problem«" shadow="true" >}}
 
 What if you could dive straight into the original Chinese of Liu Cixin’s masterpiece, The Three-Body Problem—grappling with the vocabulary, unspooling the grammar, and soaking in the references—without spending five years memorizing characters first? Learning the language and tackling a sci-fi novel like this will be hard enough, even without the characters.
 
@@ -147,103 +139,166 @@ Some people even find Hànyǔ Pīnyīn a particularly charming use of the Latin 
 
 {{< hero src="/images/3steps.webp" title="" subtitle="" >}}
 
-A clear, structured pathway to fluent Mandarin reading and progressive text comprehension:
+A clear, structured path to fluent Mandarin reading and progressive text comprehension:
 
 ## 1. Pronunciation & Sound Immersion
-Master the complete monosyllabic and phonotactic inventory of Mandarin. Before worrying about complex compound meanings, train your ears and vocal muscles using the **Pīnyīn A-Z Soundboard**. Click, listen, shadow, and group syllables to build an intuitive phonological foundation and eliminate tone confusion from day one.
+Start with the complete monosyllabic, phonotactic, and morphemic inventory on the **A-Z Soundboard**. Audition every dictionary-backed base word before touching compound meanings. Click, listen, shadow, and group syllables to build an intuitive phonological foundation and eliminate tone confusion from day one.
 
 {{< img src="/images/pinyin_soundboard_wide.webp" alt="Pīnyīn A-Z Soundboard" shadow="true" >}}
 
-## 2. Core Anchor Words & Semantic Mapping
-Build your foundation around **365 monosyllabic core anchor words**—the structural root elements of modern Mandarin. 
+## 2. Master the 365 Core Anchor Words
 
-1. **Drill the Roots:** Use the built-in Flashcard and Quiz system to master high-leverage monosyllabic root words.
-2. **Map the Networks:** Branch these roots out into thousands of compound words using hand-drawn **Semantic Word Maps**. Connecting root concepts to practical compounds turns isolated memorization into a web of meaningful context.
+For your vocabulary learning, you start out with learning 365 monosyllabic core anchor words. These form much of the basic fabric of the language. To do so, you'll play with Pīnyīn Explorer's built in Flashcard and Quiz system. This is the ultimate high-leverage shortcut to modern Mandarin.
 
-{{< img src="/images/pinyin_explorer_shall_we_play.webp" alt="Start a Quiz Game in Pīnyīn Explorer" shadow="true" >}}
+{{< img src="/images/pinyin_explorer_shall_we_play.webp" alt="Start a Quiz Game in Pīnyīn Explorer to Master the 365 Core Anchor Words" shadow="true" >}}
+
+**The Ingenuity Behind the 365 Core Anchor Words**
+
+* **Building Phonetic Intuition:** When a single Pīnyīn syllable represents multiple meanings, traditional flashcards bloat up in numbers quickly. By organizing vocabulary into clear semantic word families, you instantly recognize the core meaning behind each one-syllable word as you hear or read it.
+
+* **High-Leverage Vocabulary:** These 365 root words form the foundation of everyday Mandarin. By mastering these core monosyllabic building blocks first, compound words and new vocabulary becomes significantly easier to deduce, remember, and connect in context.
+
+* **The Foundation for Semantic Word Maps:** By branching these 365 words out into thousands of compound words, you grow your understanding how Mandarin vocabulary grows.
 
 ## 3. Transition into Authentic Reading
-Skip artificial graded readers. Drop real podcast transcripts, news articles, and native media directly into the **Peekaboo Reader**. Progress smoothly from recognizing basic punctuation and high-frequency anchor nodes to reading unassisted native text out loud.
+Skip artificial graded readers. Drop real podcast transcripts, news articles, and native media directly into the **Peekaboo Reader**. Follow a progression from recognizing basic punctuation and high-frequency anchor nodes to reading native text out loud.
 
-{{< img src="/images/pinyin_reader_graded_reader_by_frequency.webp" alt="Peekaboo Reader Frequency Masking" shadow="true" >}}
+{{< img src="/images/pinyin_reader_graded_reader_by_frequency.webp" alt="All words are hidden except for the most frequent 15 words" shadow="true" >}}
+
+Over the course of two years, dozens of prototypes, and countless iterations, Peekaboo Reader evolved from a simple idea to a highly sophisticated reading tool.
 
 {{< cta_button text="Download macOS Apps" url="/download/" style="primary" >}}
 
 ---
 
-{{< hero level="h0" title="The Pīnyīn Explorer Toolkit" subtitle="Dedicated Software & Paper Exercises" >}}
+{{< hero level="h0" title="The Pīnyīn Explorer Toolkit" subtitle="The Apps and Exercises with Pen & Paper" >}}
 
-Every stage of your journey is supported by specialized tools engineered for deep, friction-free learning.
+A carefully designed set of tools supports your progression on every stage of the journey, from pronunciation to fluent reading.
 
-## 1. Pīnyīn A-Z Soundboard
-*Speak Mandarin from Day One*
+## Pīnyīn A-Z Soundboard
 
-The ultimate interactive Pinyin chart—featuring 2,000+ native recordings, pitch visualizers, and surgical filtering options.
-
-When 'Lexicalised' mode is toggled on, you aren't just looking at random theoretical syllables—you're looking at actual, standalone single-syllable words found in the dictionary.
+Speak Mandarin from day one. The complete monosyllabic, phonotactic, and morphemic inventory of modern Mandarin. The ultimate Pinyin chart. 2,000+ native recordings, pitch visualizer, and extensive search and filtering options.
 
 {{< img src="/images/pinyin_az_soundboard_hero_sans@1.webp" alt="Pīnyīn A-Z Soundboard" shadow="true" >}}
 
-* **Complete Dictionary-Backed Inventory:** Explore 1,290+ real, standalone single-syllable words (over 2,000 including 5th tone variations) rather than theoretical sound blocks.
-* **Pitch Visualizer:** Real-time fundamental frequency curves clarify true native pitch dynamics beyond rigid textbook diagrams.
-* **Phonotactic Mastery:** Train your intuition to recognize valid syllable structures instantly and catch misspellings in the wild.
-* **Power Features:** First-class keyboard navigation, active recall testing (blur/unblur columns), configurable autoplay loops, and a instant Dual-Notation toggle (Pīnyīn / Bopomofo).
-
-{{< img src="/images/mandarin_pinyin_pitch_visualiser.webp" alt="Mandarin Pinyin Pitch Visualiser" shadow="true" >}}
+* **Monosyllabic Foundation:** Mandarin isn't built on long, winding words like German or English—it’s built on distinct single-syllable words. All of them are listed in the Pīnyīn A-Z Soundboard.
+* **Real Words (2,056 Human Recordings):** When "Lexicalised" mode is toggled on, you aren't just looking at random theoretical syllables—you're looking at actual, standalone single-syllable words found in the dictionary. 1,290 words to be precise (1,535 if we include words with the 5th, collapsed tone.) Click on any word to hear it spoken out loud, or jump directly to its definition in the Pīnyīn Explorer dictionary.
+* **Phonotactic Boundaries:** "Phonotactics" simply means the strict rules that dictate which sound combinations are allowed in a language. Working with the Pīnyīn A-Z Soundboard trains your eyes and ears to intuitively recognize valid Mandarin words, and thus spot misspelled words out there in the real world.
 
 ---
 
-## 2. Pīnyīn Explorer
-*Structural Dictionary & Quiz System*
+### A Power Chart Like No Other
 
-A thoughtfully designed Chinese–English dictionary built specifically to reveal how Mandarin vocabulary connects and branches.
+Looking closely at the UI reveals extraordinary power features that standard web Pīnyīn charts don't even attempt to offer:
+
+{{< hero src="/images/mandarin_pinyin_pitch_visualiser.webp" alt="The 4 tones as everyone had to learn them"
+shadow="true" >}}
+
+* **Pitch Visualiser:** Displays the exact fundamental frequency contour curve for every syllable, helping your eyes (and ears) to make sense of the true native pitch dynamics.
+* **First-Class Keyboard Navigation:** You don't need to click items several times to arrive at them or hear their pronunciation. The navigation is well thought out and lets you browse the soundboard efficiently and effortlessly.
+* **Active Recall Testing:** Blur entire columns and unblur single words to reveal them, to test your phonetic memory and ear recognition on the fly.
+* **Autoplay:** Hands-free drill mode with configurable loops, adjustable intervals, and customizable column-end behaviors (*Flow*, *Loop*, *Wall*).
+* **Dual Notation Toggle:** Switch between Hànyǔ Pīnyīn and Bopomofo (Zhuyin) without breaking your workflow.
+* **Sorting, Scoping & Tone Isolation:** Sort by native frequency vs. alphabet, toggle lexicalized dictionary entries vs. all theoretically possible variants, or filter specific tone combinations to eliminate tone confusion permanently.
+
+{{< img src="/images/pinyin_soundboard_filter.webp" alt="Unlimited filtering options to drill the hardest combinations" shadow="true" >}}
+
+{{< img src="/images/chinese_mandarin_bopomofo_soundboard.webp" alt="Some say Bopomofo is the only way to live, let's go!" shadow="true" >}}
+
+
+## Pīnyīn Explorer
+
+A thoughtfully designed Pīnyīn-first Chinese–English dictionary for exploring the structure of Mandarin vocabulary.
+
+### Iconic features of Pīnyīn Explorer:
+
+- 114,000+ entries adapted for Pīnyīn-based lookup
+- Adjustable dictionary size based on frequency or syllabus
+- Syllable-grouped columns with click-through headwords
+- A comprehensive inventory of monosyllabic words, browsable by multiple metrics
+- A classic five-box Leitner flashcard and quiz system with pedagogically structured learning progressions
+- Built on original research into modern spoken Mandarin
+
+### Syllable-Grouped Columns with Click-Through Headwords
 
 {{< img src="/images/pinyin_explorer_hero_sans@1.webp" alt="Pīnyīn Explorer" shadow="true" >}}
 
-* **114,000+ Lookups & Multi-Column Layout:** Replace overwhelming vertical list dumps with clean, cascading syllable tiers that display how base roots expand into compounding networks.
-* **Adjustable Dictionary Scope:** Filter dictionary density by HSK levels (1–9), top 12,000 everyday terms, or top 50,000 extended entries.
-* **3D Structural Dimensions:** Explore monosyllabic roots by **Semantic Density** (single-meaning vs. overloaded roots), **Productive Compounds** (standalone vs. high-building-block roots), and **Word Frequency**.
-* **Distraction-Free Leitner Flashcards:** A classic 5-box Leitner system as intended in the original design of Sebastian Leitner’s 1972 book 'So lernt man lernen'—with zero notifications, stats, streaks, or email fluff.
+The dictionary search interface of Pīnyīn Explorer solves the chaotic, endless-list problem of traditional dictionary apps.
 
-{{< img src="/images/pinyin_explorer_frequent_words.webp" alt="Monosyllabic root inventory sorted by frequency" shadow="true" >}}
+Instead of an overwhelming vertical dump of thousands of entries, the interface uses a clean, cascading multi-column layout of syllable tiers—refocusing the entire coordinate system around your selection to reveal how words branch outward into deeper compounding networks.
 
----
+### Adjustable dictionary size based on frequency or syllabus
 
-## 3. Peekaboo Reader
-*Distraction-Free Masked Reading Environment*
+{{< img src="/images/pinyin_explorer_dictionary_cut_hsk3.webp" alt="Adjustable dictionary size based on frequency or syllabus" shadow="true" >}}
 
-Import text in Hànzì or Hànyǔ Pīnyīn from news, podcast transcripts, or translations and transform it into an interactive reading playground.
+* **Full Dictionary:** Access the complete lexicon without restrictions.
+
+* **Top 50,000 Entries:** Rich and expressive vocabulary, curated to filter out obscure or overly specialized terms (like rare bird species names 🦤).
+
+* **Top 12,000 Entries:** Core everyday expressions, ideal for navigating general topics and mainstream media.
+
+* **HSK 3.0 (Levels 1–9):** Perfectly aligned with standard curricula, allowing you to observe how official wordlists branch out, cluster, and overlap.
+
+### A Comprehensive Inventory of Monosyllabic Words, Browsable by Multiple Metrics
+
+{{< img src="/images/pinyin_explorer_frequent_words.webp" alt="The inventory of modern Mandarin by frequency" shadow="true" >}}
+
+Rather than sorting vocabulary purely by arbitrary textbook chapters, explore the entire inventory of single-syllable roots through three distinct structural dimensions:
+
+* **Semantic Density (Block Height):** Classified from *Sharply Defined* words with a single, clear meaning, up to *Excessively Overloaded* roots carrying dozens of distinct meanings across various contexts.
+
+* **Productive Compounds (Block Width):** Grouped from *Standing Alone* words with minimal combinatory use, up to *Core Building Blocks*—highly prolific roots that generate hundreds or even thousands of compound words.
+
+* **Word Frequency (Color Intensity):** Ranging from *Ubiquitous* structural anchors—words present in virtually every single Chinese sentence—down to *Long-Tail* descriptive terms that preserve the language’s depth.
+
+{{< hero src="/images/pinyin_explorer_quiz_cards.webp" title="" subtitle="The Flashcards and Quiz Game of Pīnyīn Explorer" shadow="true" >}}
+
+### Simple-looking but not simple
+
+The flashcards system is as simple as paper cards in boxes: a classic 5-box Leitner system as intended in the original design of the famous book by Sebastian Leitner “So lernt man lernen” (1972), with zero notifications, no stats, no streaks, no emails. 
+
+Likewise the quiz interface, but under the hood the quiz engine provides sophisticated progression algorithms, randomisation, and deck feeding—the result of months of research, fine-tuning, and engineering. 
+
+## Peekaboo Reader
+
+A plain-text reading environment with adjustable Pīnyīn visibility.
 
 {{< img src="/images/pinyin_peekaboo_reader_hero_sans@1.webp" alt="Pīnyīn Explorer’s Peekaboo Reader" shadow="true" >}}
 
-* **Smart Pīnyīn Masking:** Adjust visibility by word frequency or curated sets. Hide full compounds or individual morphemes, and hover for a quick "peek-a-boo" hint.
-* **Automatic Orthographic Segmentation:** Powered by our dictionary-guided segmentation engine (*Pīnyīn-Goat*), text written in Chinese characters is automatically converted into natural, readable Pīnyīn sentences following standard orthographic rules (GB/T 16159-2012).
-* **Deep Interactivity:** Hover over words for instant definitions, or click any term to jump straight into deeper exploration inside Pīnyīn Explorer.
+→ Read Mandarin from day one  
+→ Adjust Pīnyīn visibility by frequency or curated sets  
+→ Hide whole compounds or merely constituent morphemes  
+→ Hover over a hidden Mandarin word to have a quick peek-a-boo!  
+→ Built-in dictionary, just hover over a word to see its definition
+→ Click any word to explore it in Pīnyīn Explorer  
 
-### Question: Where do the Pīnyīn transcripts from?
-Bring your own, grab them from your favorite podcasts, leverage modern AI tools, copy it over from Google translate, or simply paste Chinese characters directly into the Peekaboo Reader. The built-in engine automatically converts Chinese characters text into natural, readable Pīnyīn sentences following **GB/T 16159-2012** orthographic standards.
+**Question: Where do I get the Pīnyīn transcripts from?**
 
-Under the hood, Peekaboo Reader uses a two-stage conversion engine engineered specifically for standard-compliant Mandarin:
+Bring your own, grab them from your favorite podcasts, leverage modern AI tools, copy it over from Google translate, or simply paste raw Chinese characters directly into the Peekaboo Reader. The built-in engine automatically converts raw text into natural, readable Pīnyīn sentences following **GB/T 16159-2012** orthographic standards—handling word boundaries and grammatical particles properly instead of leaving you with isolated syllables.
 
-1. **Word Segmentation (DAG + Viterbi):** A custom, dictionary-guided Unigram language model utilizes Directed Acyclic Graphs (DAG) and Viterbi dynamic programming for Maximum Likelihood Word Segmentation, resolving word boundaries with high precision. (pīnyīn-goat 🐐)
-2. **Orthographic Pipeline (GB/T 16159-2012):** The segmented output is transformed through an orthographic ruleset—handling polyphones, affix joining and grammatical particles, as well as punctuation to produce natural reading sentences. (OrthoPinyinEngine)
+Under the hood, Peekaboo Reader is powered by Pīnyīn-Goat 🐐—a specialized, dictionary-guided Unigram language model that uses Directed Acyclic Graphs (DAG) and Viterbi dynamic programming for Maximum Likelihood Word Segmentation. While no deterministic model gets language 100% right—you might spot a segmentation glitch once or twice a paragraph—its dynamic probability flooring, polyphone resolution, and orthographic pipeline deliver a remarkably fluid reading flow.
 
----
+## Semantic Word Maps
 
-## 4. Semantic Word Mapping
-*Analogue Pen & Paper Exercise*
+Drawing manual maps gives your creativity free rein while deep memory takes root. 
 
-While software handles lookup and flashcard drilling, drawing manual word maps engages spatial memory and creative association.
+1. **Place a base Pīnyīn word in the center**—for example, **dàn**.
+2. **Branch out into its primary senses:** **EGG**, **BULLET**, **WEAK**, or **HOWEVER**.
+3. **Choose your compounds:** Scan the word's column list in the Flashcards module—or search the Pīnyīn Explorer dictionary—and pick the compounds you like, find useful, or love. Capture words from your daily reading and listening, or simply ones that make you laugh. Why is a cake a *dàngāo* ("egg high" or "egg paste")? Why is a bullet a *zǐdàn* ("child egg")?
 
-{{< img src="/images/alfons_pinyin_word_map3.webp" alt="Creating a semantic word map" shadow="true" >}}
+{{< img src="/images/alfons_pinyin_word_map3.webp" alt="Where to put what on a semantic word map?" shadow="true" >}}
 
-1. **Anchor the Root:** Place a base Pīnyīn root in the center (e.g., **dàn**).
-2. **Branch Primary Senses:** Split the word into core meanings—**EGG**, **BULLET**, **WEAK**, or **HOWEVER**.
-3. **Attach Compounds:** Select compounds from your daily reading or dictionary searches and link them visually (*zǐdàn* = "child egg" = bullet).
+The semantic word maps work best when done regularly—for example, one or two maps per day.
 
-Building 1–2 word maps daily turns isolated vocabulary into an interconnected, permanent personal network.
+These maps help you discover a word's semantic families and most useful compounds. As you build your own, thousands of individual words gradually become an interconnected network.
 
-{{< img src="/images/alfons_pinyin_word_map2.webp" alt="Word Map examples" shadow="true" >}}
+### Curate Your Own Lexicon
+
+The foundation is built on the 365 curated words from Pīnyīn Explorer, but you can always choose your own root words outside this set (like *xuě*, *shǔ*, or *qū*).
+
+By actively choosing which words to map, you become the true owner of your vocabulary. It’s a creative process using pen and paper—or a stylus and iPad. Enjoy!
+
+{{< img src="/images/alfons_pinyin_word_map2.webp" alt="How many word maps are enough?" shadow="true" >}}
 
 ---
 
