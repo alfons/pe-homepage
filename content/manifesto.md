@@ -9,7 +9,7 @@ url: "/manifesto/"
 
 {{< cta_button text="Download macOS Apps" url="/download/" style="primary" >}}
 
-{{< hero src="/images/modern-chinese-novels-pinyin_no_hanzi.webp" title="" subtitle="What if… modern Chinese novels could be read entirely in Hànyǔ Pīnyīn, and found in bookstores alongside the world’s great literature?" >}}
+{{< hero src="/images/modern_chinese_novels_pinyin_manifesto.webp" title="" subtitle="What if… modern Chinese novels could be read entirely in Hànyǔ Pīnyīn, and found in bookstores alongside the world’s great literature?" >}}
 
 ---
 
