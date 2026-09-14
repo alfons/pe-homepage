@@ -111,7 +111,7 @@ What if you could dive straight into the original Chinese of Liu Cixin’s maste
 {{< box header="Liú Cíxīn • 三体 • ◼︎001" shadow="true" subtitle="Excerpt from Liú Cíxīn’s »The Three-Body Problem« in official Hànyǔ Pīnyīn" >}}
 Wāng Miǎo juéde, lái zhǎo tā de zhè sì gè rén shì yī gè qíguài de zǔhé: liǎng míng jǐngchá hé liǎng míng jūnrén, rúguǒ nà liǎng gè jūnrén shì wǔjǐng hái suàn zhèngcháng, dàn zhè shì liǎng míng lùjūn jūnguān.
 
-“Qǐng bù yào zài wǒ jiālǐ chōuyān.” Wāng Miǎo lánzhùle tā.
+“Qǐng bù yào zài wǒ jiā lǐ chōuyān.” Wāng Miǎo lánzhùle tā.
 
 “Nà jiù zài lóudào lǐ shuō ba.” Shǐ Qiáng shuōzhe, shēnshēn de xīle yī dàkǒu, shǒu zhōng de yān jīhū rán xiàqù yībàn.
 {{< /box >}}
@@ -129,6 +129,8 @@ Tóng Nián dītóu, shǒuzhǐ zài jiànpán shàng pīli-pālā de qiāo ya qi
 {{< /box >}}
 
 Whether it’s the foundational social commentary of Lǔ Xùn (鲁迅), mind-blowing sci-fi, or laugh-out-loud romance, treating Hànyǔ Pīnyīn as an independent orthography gives you countless great works of modern Chinese literature to explore from day one.
+
+Using Hànyǔ Pīnyīn to read, write, and speak modern Mandarin as a second-language learner, the question is not, “Is this possible?” That question has already been answered. The question is, “Can you give yourself permission?”
 
 ---
 
