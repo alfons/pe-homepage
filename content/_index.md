@@ -104,6 +104,8 @@ Xuéxí Zhōngwén cúnzài yī gè qítè de píngjǐng: xuéxí pīnyīn wénz
 
 For a beginner or intermediate learner of Mandarin, the bookstore isn’t off-limits—the characters are. The moment you remove that barrier, modern Chinese literature is yours to read.
 
+{{< pullquote title="Read more books. Read to escape. Read to understand. Read to know yourself." >}}
+
 What if you could dive straight into the original Chinese of Liu Cixin’s masterpiece of dark cosmic sci-fi—*The Three-Body Problem*—grappling with the vocabulary, unspooling the syntax, and savoring the cadence of the original prose—without spending five years memorizing characters first?
 
 {{< img src="/images/pinyin_explorer_scifi_future_banner.webp" alt="" shadow="true" >}}

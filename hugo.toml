@@ -28,6 +28,11 @@ url = "/support/"
 weight = 20
 
 [[languages.en.menu.footer]]
+name = "Home"
+url = "/"
+weight = 4
+
+[[languages.en.menu.footer]]
 name = "Manifesto"
 url = "/manifesto/"
 weight = 5
