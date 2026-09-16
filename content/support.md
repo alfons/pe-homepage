@@ -5,13 +5,15 @@ title: "Support"
 ### Project Contact & Support
 
 * **Email:** ahoj&nbsp;[at]&nbsp;pinyinexplorer&nbsp;[dot]&nbsp;com
-* **Feedback & Messages:** If you'd like to share feedback or suggest a feature, the best way is to leave a tip along with a message via [PayPal](https://www.paypal.com/donate/?hosted_button_id=3GDAF8BNMHCWC).
+* **Feedback & Suggestions:** If you'd like to share feedback or suggest a feature, the best way is to leave a tip along with a message via [PayPal](https://www.paypal.com/donate/?hosted_button_id=3GDAF8BNMHCWC).
 
 ---
 
+{{< img src="/images/thank_you_for_your_support.webp" alt="" >}}
+
 ### Support Independent Development
 
-The creation and maintenance of Pīnyīn Explorer is only possible through the generous support of good people. If these tools have saved you time or made your Mandarin journey smoother, consider supporting:
+Pīnyīn Explorer is created and maintained independently, with the generous support of people who believe in these ideas and share the vision behind it. If you’d like to support the cause, please consider contributing:
 
 * **Sponsor or Tip:** [Send via PayPal](https://www.paypal.com/donate/?hosted_button_id=3GDAF8BNMHCWC)
 
