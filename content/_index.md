@@ -3,6 +3,9 @@ title: ""
 seo_title: "Pīnyīn Explorer — Real Mandarin From Day One"
 description: "Learn Mandarin fast without memorizing Chinese characters. Explore modern Mandarin literature directly using Hànyǔ Pīnyīn with native macOS apps."
 url: "/"
+aliases:
+  - /about
+  - /about/
 ---
 
 {{< hero level="h0" title="Read Mandarin From Day One." subtitle="You don't need to memorize thousands of Chinese characters to start learning Mandarin. The Pīnyīn Explorer Method takes you straight into authentic modern Mandarin through official Hànyǔ Pīnyīn." >}}
