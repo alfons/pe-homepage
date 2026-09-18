@@ -2,7 +2,7 @@ baseURL = "https://pinyinexplorer.com/"
 languageCode = "en-us"
 title = "Pīnyīn Explorer"
 theme = "PaperMod"
-copyright = "© 2025–2026 Alfons Grabher"
+copyright = "The Pīnyīn Explorer Method and its tools — concept, design, and development © 2024–2026 Alfons Grabher"
 
 [params]
 hideTopLink = false
