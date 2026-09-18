@@ -145,7 +145,7 @@ Some people even find Hànyǔ Pīnyīn a particularly charming use of the Latin 
 
 {{< hero level="h0" title="Your 3-Step Journey" subtitle="The pathway of the Pīnyīn Explorer Method" >}}
 
-{{< hero src="/images/3steps.webp" title="" subtitle="" >}}
+{{< hero src="/images/pinyin_explorer_method_3steps_apps" title="" subtitle="" >}}
 
 A clear, structured pathway to fluent Mandarin reading and progressive text comprehension:
 
@@ -220,7 +220,19 @@ Import text in Hànzì or Hànyǔ Pīnyīn from news, podcast transcripts, or tr
 * **Automatic Orthographic Segmentation:** Powered by our dictionary-guided segmentation engine (*Pīnyīn-Goat*), text written in Chinese characters is automatically converted into natural, readable Pīnyīn sentences following standard orthographic rules (GB/T 16159-2012).
 * **Deep Interactivity:** Hover over words for instant definitions, or click any term to jump straight into deeper exploration inside Pīnyīn Explorer.
 
-### Question: Where do the Pīnyīn transcripts from?
+### Question: But what about the homonyms??!
+Despite heavy homophony in monosyllables, Hànyǔ Pīnyīn functions with near character-level precision for polysyllabic words.
+
+* Two-syllable words are 98.4% unique among the top 3,000 most frequent items
+* For three-syllable words, uniqueness is effectively complete; the remaining non-unique cases reflect orthographic variation rather than genuine lexical ambiguity, arising from variant Chinese character spellings
+
+In practical language use, homophony mainly affects the relatively small set of extremely versatile monosyllabic words such as shì, jí, or yì; but even these are readily resolved by context. For example, in the sentence “Jenny shì Zhōngwén lǎoshī.” any Chinese speaker will naturally interpret shì as the copular verb “to be,” without confusing it with unrelated homophones such as “matter,” “room,” “city,” or “to try.”
+
+However, to guarantee a smooth reading experience, just like with any other alphabetic script, it is crucial that Pīnyīn spelling be accurate (correct spelling of words, word boundaries, no distortion by tone sandhi, etc).
+
+Read the study here: [Empirical Analysis of Hànyǔ Pīnyīn Uniqueness in Mandarin Chinese Lexical Items](https://alfons.github.io/PinyinUniquenessStudy/) 
+
+### Question: Where do I get Pīnyīn transcripts?
 Bring your own, grab them from your favorite podcasts, leverage modern AI tools, copy it over from Google translate, or simply paste Chinese characters directly into the Peekaboo Reader. The built-in engine automatically converts Chinese characters text into natural, readable Pīnyīn sentences following **GB/T 16159-2012** orthographic standards.
 
 Under the hood, Peekaboo Reader uses a two-stage conversion engine engineered specifically for standard-compliant Mandarin:

@@ -5,7 +5,7 @@ description: "Learn Mandarin fast without memorizing Chinese characters. Explore
 url: "/"
 ---
 
-{{< hero level="h0" title="Real Mandarin From Day One." subtitle="You don't need to memorize thousands of Chinese characters to start learning Mandarin. The Pīnyīn Explorer Method takes you straight into authentic modern Mandarin through official Hànyǔ Pīnyīn." >}}
+{{< hero level="h0" title="Read Mandarin From Day One." subtitle="You don't need to memorize thousands of Chinese characters to start learning Mandarin. The Pīnyīn Explorer Method takes you straight into authentic modern Mandarin through official Hànyǔ Pīnyīn." >}}
 
 {{< cta_button text="Download macOS Apps" url="/download/" style="primary" >}}
 
@@ -41,7 +41,7 @@ By treating Hànyǔ Pīnyīn as a standalone orthography, you strip away the cha
 
 {{< hero level="h0" title="Your 3-Step Journey" subtitle="The pathway of the Pīnyīn Explorer Method" >}}
 
-{{< hero src="/images/3steps.webp" title="" subtitle="" >}}
+{{< hero src="/images/pinyin_explorer_method_3steps_apps.webp" title="" subtitle="" >}}
 
 ## 1. Pronunciation & Sound Immersion
 Start with the complete monosyllabic, phonotactic, and morphemic inventory on the **A-Z Soundboard**. Audition every dictionary-backed base word before concerning yourself with meaning. Click, listen, shadow, and group words to build an intuitive phonological foundation and eliminate tone confusion from day one.
