@@ -36,7 +36,7 @@ These sentences aren't drawn from real life—actual conversations, literature, 
 
 {{< pullquote title="The Chinese-language literary world is vast, vibrant, and remarkably brilliant." >}}
 
-You don't need to put up with sterile textbook scripts. From Lǔ Xùn and the emergence of modern vernacular literature in the 1920s, through generations of literary titans, to today's enormous world of novels, web fiction, and contemporary writing, the Chinese-language literary world is vast, vibrant, and remarkably brilliant. The barrier is almost entirely linguistic access.
+You don't need to put up with sterile textbook scripts. From Lǔ Xùn and the emergence of modern vernacular literature in the 1920s, through generations of literary titans, to today's vast world of novels, web fiction, and contemporary writing, the Chinese-language literary world is vast, vibrant, and remarkably brilliant. The barrier is almost entirely linguistic access.
 
 By treating Hànyǔ Pīnyīn as a standalone orthography, you strip away the character drag and unlock immediate access to modern Chinese literature, right from the start of your study journey.
 
