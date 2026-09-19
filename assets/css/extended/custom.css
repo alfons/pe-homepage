@@ -28,6 +28,36 @@
     src: url('/fonts/IBMPlexSans-Bold.woff2') format('woff2');
 }
 
+/* Ensure the body expands to fill the viewport without causing artificial overflow */
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-height: 100dvh;
+}
+
+
+/* Allow the main content container to grow and push the footer down */
+main,
+.main {
+    flex: 1 0 auto;
+}
+
+/* Ensure header and footer don't stretch */
+header,
+footer {
+    flex-shrink: 0;
+}
+
 /* Body & Input Base Fonts */
 body,
 p,
@@ -103,7 +133,7 @@ h6,
 }
 
 .hero-scroll-container .hero-image-shadow {
-box-shadow: 0 0.375rem 0.875rem rgba(0, 0, 0, 0.07);
+    box-shadow: 0 0.375rem 0.875rem rgba(0, 0, 0, 0.07);
     margin: 1.5rem auto;
 }
 
@@ -316,7 +346,7 @@ box-shadow: 0 0.375rem 0.875rem rgba(0, 0, 0, 0.07);
     opacity: 0.75;
     text-align: center;
     font-style: normal;
-        text-wrap: balance;
+    text-wrap: balance;
 
 }
 
@@ -389,7 +419,7 @@ box-shadow: 0 0.375rem 0.875rem rgba(0, 0, 0, 0.07);
     line-height: 1.8;
 }
 
-.footer-content > span {
+.footer-content>span {
     display: block;
     margin-bottom: 0.25rem;
 }
@@ -428,22 +458,23 @@ box-shadow: 0 0.375rem 0.875rem rgba(0, 0, 0, 0.07);
     }
 }
 
-/* Smooth scrolling for the whole page */
-html {
-  scroll-behavior: smooth;
-}
 
 /* Scroll to top button styling */
 .top-link {
-  visibility: hidden;
-  opacity: 0;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
 }
 
 /* Force visibility when scrolling threshold is crossed */
 .top-link.visible {
-  visibility: visible !important;
-  opacity: 1 !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+.top-link {
+    position: fixed !important;
+    bottom: 2rem;
+    right: 2rem;
 }
 
 /* ==========================================================================
@@ -531,4 +562,33 @@ html {
     .manifesto-card-text {
         font-size: 0.975rem;
     }
+}
+
+
+
+/* Override PaperMod’s min-height calculation */
+.main {
+  min-height: 0 !important;   /* kill the calc(100vh - …) */
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+main.main {
+  flex: 1 0 auto;
+}
+
+header.header,
+footer.footer {
+  flex-shrink: 0;
 }
