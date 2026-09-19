@@ -8,10 +8,6 @@ description: "Native macOS apps that take you straight into modern Mandarin thro
 * **100% Private:**  All flashcards and settings are stored purely on your local device. No user data is ever transmitted to external servers.
 * **Institutions & Universities:** Educational departments interested in bulk licensing or site deployment can reach out directly via the [Support page](/support/).
 
-### Launch date
-
-🪴 *This project was 2+ years in the making. Usually I work on it 8 to 14 hours per day, 7 days a week. I'll be launching as soon as possible (hopefully before mid Oct 2026). Please subscribe to my substack to be notified. -Alfons*
-
 ## Pīnyīn Explorer macOS Apps
 
 {{< download_item 
@@ -19,7 +15,7 @@ description: "Native macOS apps that take you straight into modern Mandarin thro
     icon="/images/pinyin_explorer_icon.png" 
     desc="A thoughtfully designed Pīnyīn-first Chinese–English dictionary for exploring the structure of Mandarin vocabulary. Includes 114,000+ entries, cascading multi-column layouts, adjustable dictionary scopes (HSK 3.0 or frequency-based), a classic 5-box Leitner flashcard system, and a quiz system with pedagogically structured learning progressions for 365 core anchor words." 
     badge_type="macos_app_store"
-    url=""
+    url="https://apps.apple.com/at/app/p%C4%ABny%C4%ABn-explorer/id6795955459?l=en-GB&mt=12"
 >}}
 
 ---
@@ -29,7 +25,7 @@ description: "Native macOS apps that take you straight into modern Mandarin thro
     icon="/images/pinyin_soundboard_icon.png" 
     desc="Speak Mandarin from day one. The complete monosyllabic, phonotactic, and morphemic inventory of modern Mandarin. The ultimate Pīnyīn chart featuring 2,000+ native recordings, pitch visualizer, keyboard navigation, autoplay, as well as extensive search, sorting, and filtering options." 
     badge_type="macos_app_store"
-    url=""
+    url="https://apps.apple.com/at/app/p%C4%ABny%C4%ABn-a-z-soundboard/id6796647364?l=en-GB&mt=12"
 >}}
 
 ---
@@ -39,7 +35,7 @@ description: "Native macOS apps that take you straight into modern Mandarin thro
     icon="/images/peekaboo_reader_icon.png" 
     desc="A plain-text reading environment with adjustable Pīnyīn visibility. Paste Chinese characters directly into the Peekaboo Reader and the built-in engine automatically converts text into Pīnyīn sentences following official GB/T 16159-2012 orthographic standards. Podcast and TV drama subtitles, web novels, sci-fi, romance, wuxia, lifestyle stories… drop in anything you actually want to read." 
     badge_type="macos_app_store"
-    url=""
+    url="https://apps.apple.com/at/app/p%C4%ABny%C4%ABn-peekaboo-reader/id6796662474?l=en-GB&mt=12"
 >}}
 
 ## Other Resources
